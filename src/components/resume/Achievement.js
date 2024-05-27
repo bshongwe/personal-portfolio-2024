@@ -12,32 +12,32 @@ const Achievement = () => {
       <div>
         <div className="py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">2023 - 2024</p>
-          <h2 className="text-4xl font-bold"><i>#1.</i></h2>
+          <h2 className="text-4xl font-bold"><i># Page 1.</i></h2>
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Commonwealth Bank"
-            subTitle="title"
-            result="res"
-            des="des"
+            subTitle="Software Engineering Programme"
+            result="ongoing"
+            des="Job simulation"
           />
           <ResumeCard
             title="Accenture"
-            subTitle="title"
-            result="res"
-            des="des"
+            subTitle="Software Engineering Programme"
+            result="verified"
+            des="Job simulation"
           />
           <ResumeCard
             title="JP Morgan Chase & Co."
-            subTitle="title"
-            result="res"
-            des="des"
+            subTitle="Software Engineering Programme"
+            result="verified"
+            des="Job simulation"
           />
           <ResumeCard
             title="OctaNet Pvt. Ltd."
-            subTitle="title"
-            result="res"
-            des="des"
+            subTitle="MERN Stack, Python, Frontend & Python"
+            result="verified"
+            des="4-day workshop with practical, hands-on labs"
           />
         </div>
       </div>
@@ -45,7 +45,7 @@ const Achievement = () => {
       <div>
         <div className="py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">2023 - 2024</p>
-          <h2 className="text-4xl font-bold"><i>#2.</i></h2>
+          <h2 className="text-4xl font-bold"><i># Page 2.</i></h2>
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
@@ -78,7 +78,7 @@ const Achievement = () => {
       <div>
         <div className="py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">2023 - 2024</p>
-          <h2 className="text-4xl font-bold"><i>#3.</i></h2>
+          <h2 className="text-4xl font-bold"><i># Page 3.</i></h2>
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard

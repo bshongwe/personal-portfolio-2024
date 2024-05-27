@@ -13,7 +13,7 @@ const Skills = () => {
           <p className="text-sm text-designColor tracking-[4px] uppercase">
             Features
           </p>
-          <h2 className="text-3xl md:text-4xl font-bold">App Development: General</h2>
+          <h2 className="text-3xl md:text-4xl font-bold">App Dev Stack</h2>
         </div>
         <div className='className="mt-14 w-full flex flex-col gap-6'>
           <div className="overflow-x-hidden">
@@ -89,7 +89,7 @@ const Skills = () => {
           <p className="text-sm text-designColor tracking-[4px] uppercase">
             Features
           </p>
-          <h2 className="text-3xl md:text-4xl font-bold">Web Development: Frontend</h2>
+          <h2 className="text-3xl md:text-4xl font-bold">Web Dev (Frontend)</h2>
         </div>
         <div className="flex flex-col gap-6">
           <div className="overflow-x-hidden">
@@ -165,7 +165,7 @@ const Skills = () => {
           <p className="text-sm text-designColor tracking-[4px] uppercase">
             Features
           </p>
-          <h2 className="text-3xl md:text-4xl font-bold">Tools</h2>
+          <h2 className="text-3xl md:text-4xl font-bold">Dev Tools</h2>
         </div>
         <div className="flex flex-col gap-6">
           <div className="overflow-x-hidden">
@@ -241,7 +241,7 @@ const Skills = () => {
           <p className="text-sm text-designColor tracking-[4px] uppercase">
             Features
           </p>
-          <h2 className="text-3xl md:text-4xl font-bold">Web Development: Backend</h2>
+          <h2 className="text-3xl md:text-4xl font-bold">Web Dev (Backend)</h2>
         </div>
         <div className="flex flex-col gap-6">
           <div className="overflow-x-hidden">
@@ -317,7 +317,7 @@ const Skills = () => {
           <p className="text-sm text-designColor tracking-[4px] uppercase">
             Features
           </p>
-          <h2 className="text-3xl md:text-4xl font-bold">Sofware Engineer Language Stack (general)</h2>
+          <h2 className="text-3xl md:text-4xl font-bold">Sofware Engineer Language Stack</h2>
         </div>
         <div className="flex flex-col gap-6">
           <div className="overflow-x-hidden">
