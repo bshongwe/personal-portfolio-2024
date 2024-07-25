@@ -22,7 +22,7 @@ const Media = () => {
         </div>
         <div>
           <h2 className="text-base uppercase font-titleFont mb-4">
-            BEST SKILL ON
+            BEST SKILLED AT
           </h2>
           <div className="flex gap-4">
             <span className="bannerIcon">
