@@ -18,13 +18,13 @@ const Education = () => {
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Software Engineering (Backend Specialization) - ALX Africa"
-            subTitle="<dd/mm>2023 - July 26, 2024"
+            subTitle="April 22, 2023 - July 27, 2024"
             result="ongoing: 148%"
             des="Last 3 months part of 12-month intensive programme - Backend Specializations option"
           />
           <ResumeCard
             title="Software Engineering (Full Stack, Foundations) - ALX Africa"
-            subTitle="June 19, 2023 - <dd/mm>2024"
+            subTitle="June 19, 2023 - Aprl 19, 2024"
             result="passed: 149%"
             des="First 9 months part of 12-month intensive programme - Full Stack (Foundations)"
           />
@@ -38,7 +38,7 @@ const Education = () => {
             title="Bachelor of Science Degree in Agronomy - UNESWA"
             subTitle="2009 - 2012"
             result="graduated"
-            des="Diploma in Agriculture (General) entry, transfered after 2 years from the 3 year programme to complete 3 years of the 4 year degree programme."
+            des=""
           />
         </div>
       </div>
@@ -72,7 +72,7 @@ const Education = () => {
             title="freeCodeCamp: JavaScript Algorithms and Data Structures"
             subTitle="A certification in JavaScript Algorithms and Data Structures offered freeCodeCamp"
             result="2023"
-            des="check achievements for more certifications info"
+            des=""
           />
         </div>
       </div>
