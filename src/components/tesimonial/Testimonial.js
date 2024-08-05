@@ -93,7 +93,7 @@ const Testimonial = () => {
       className="w-full py-20 border-b-[1px] border-b-black"
     >
       <div className="flex justify-center items-center text-center">
-        <Title title="WHAT CLIENTS SAY" des="Testimonial" />
+        <Title title="SEE WHAT CLIENTS & COLLEAGUES SAY" des="Testimonial" />
       </div>
       <div className="max-w-6xl mx-auto">
         {/* ================ Slider One ================== */}
@@ -104,7 +104,7 @@ const Testimonial = () => {
                 <img
                   className="h-72 md:h-32 lgl:h-72 rounded-lg object-cover"
                   src={testimonialOne}
-                  alt="testimonialOne"
+                  alt="Ernest Bhekizwe Shongwe"
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
@@ -117,7 +117,7 @@ const Testimonial = () => {
                 </div>
               </div>
               <div className="w-full lgl:w-[60%] h-full flex flex-col justify-between">
-                <img className="w-20 lgl:w-32" src={quote} alt="quote" />
+                <img className="w-20 lgl:w-32" src={quote} alt="Ernest Bhekizwe Shongwe" />
                 <div className="w-full h-[70%] py-10 bg-gradient-to-r from-[#1e2024] to-[#23272b] rounded-lg shadow-shadowOne p-4 lgl:p-8 flex flex-col justify-center gap-4 lgl:gap-8">
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
@@ -151,7 +151,7 @@ const Testimonial = () => {
                 <img
                   className="h-72 md:h-32 lgl:h-72 rounded-lg object-cover"
                   src={testimonialTwo}
-                  alt="testimonialTwo"
+                  alt="Ernest Bhekizwe Shongwe"
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
@@ -164,7 +164,7 @@ const Testimonial = () => {
                 </div>
               </div>
               <div className="w-full lgl:w-[60%] h-full flex flex-col justify-between">
-                <img className="w-20 lgl:w-32" src={quote} alt="quote" />
+                <img className="w-20 lgl:w-32" src={quote} alt="Ernest Bhekizwe Shongwe" />
                 <div className="w-full h-[70%] py-10 bg-gradient-to-r from-[#1e2024] to-[#23272b] rounded-lg shadow-shadowOne p-4 lgl:p-8 flex flex-col justify-center gap-4 lgl:gap-8">
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
@@ -198,7 +198,7 @@ const Testimonial = () => {
                 <img
                   className="h-72 md:h-32 lgl:h-72 rounded-lg object-cover"
                   src={testimonialOne}
-                  alt="testimonialOne"
+                  alt="Ernest Bhekizwe Shongwe"
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
@@ -211,7 +211,7 @@ const Testimonial = () => {
                 </div>
               </div>
               <div className="w-full lgl:w-[60%] h-full flex flex-col justify-between">
-                <img className="w-20 lgl:w-32" src={quote} alt="quote" />
+                <img className="w-20 lgl:w-32" src={quote} alt="Ernest Bhekizwe Shongwe" />
                 <div className="w-full h-[70%] py-10 bg-gradient-to-r from-[#1e2024] to-[#23272b] rounded-lg shadow-shadowOne p-4 lgl:p-8 flex flex-col justify-center gap-4 lgl:gap-8">
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>

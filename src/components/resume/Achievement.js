@@ -14,7 +14,7 @@ const Achievement = () => {
           <p className="text-sm text-designColor tracking-[4px]">2023 - 2024</p>
           <h2 className="text-4xl font-bold"><i># Page 1.</i></h2>
         </div>
-        <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Commonwealth Bank"
             subTitle="Software Engineering Programme"
@@ -47,7 +47,7 @@ const Achievement = () => {
           <p className="text-sm text-designColor tracking-[4px]">2023 - 2024</p>
           <h2 className="text-4xl font-bold"><i># Page 2.</i></h2>
         </div>
-        <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Code Alpha"
             subTitle="title"
@@ -75,38 +75,7 @@ const Achievement = () => {
         </div>
       </div>
 
-      <div>
-        <div className="py-12 font-titleFont flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2023 - 2024</p>
-          <h2 className="text-4xl font-bold"><i># Page 3.</i></h2>
-        </div>
-        <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
-          <ResumeCard
-            title="Code Alpha"
-            subTitle="title"
-            result="res"
-            des="des"
-          />
-          <ResumeCard
-            title="ALX Africa"
-            subTitle="title"
-            result="res"
-            des="des"
-          />
-          <ResumeCard
-            title="freeCodeCamp"
-            subTitle="title"
-            result="res"
-            des="des"
-          />
-          <ResumeCard
-            title="Personal"
-            subTitle="title"
-            result="res"
-            des="des"
-          />
-        </div>
-      </div>
+      
     </motion.div>
   );
 };

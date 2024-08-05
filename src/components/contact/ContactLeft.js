@@ -8,12 +8,12 @@ const ContactLeft = () => {
       <img
         className="w-full h-64 object-cover rounded-lg mb-2"
         src={contactImg}
-        alt="contactImg"
+        alt="Ernest Bhekizwe Shongwe"
       />
       <div className="flex flex-col gap-4">
         <h3 className="text-3xl font-bold text-white">Ernest Bhekizwe Shongwe</h3>
         <p className="text-lg font-normal text-gray-400">
-          Full Stack Developer
+          Full Stack Software Engineer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
           For queries regarding job offers, consultations or any

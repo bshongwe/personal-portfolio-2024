@@ -15,24 +15,24 @@ const Education = () => {
           <p className="text-sm text-designColor tracking-[4px]">2009 - 2024</p>
           <h2 className="text-3xl md:text-4xl font-bold">Education</h2>
         </div>
-        <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Software Engineering (Backend Specialization) - ALX Africa"
+            title="Software Engineering - ALX Africa"
             subTitle="April 22, 2023 - July 27, 2024"
-            result="ongoing: 148%"
-            des="Last 3 months part of 12-month intensive programme - Backend Specializations option"
+            result="verified: 148%"
+            des="Backend (Specialization)"
           />
           <ResumeCard
-            title="Software Engineering (Full Stack, Foundations) - ALX Africa"
-            subTitle="June 19, 2023 - Aprl 19, 2024"
-            result="passed: 149%"
-            des="First 9 months part of 12-month intensive programme - Full Stack (Foundations)"
+            title="Software Engineering - ALX Africa"
+            subTitle="June 17, 2023 - Aprl 19, 2024"
+            result="verified: 149%"
+            des="Full Stack (Foundations)"
           />
           <ResumeCard
-            title="Full Stack Software Engineering - freeCodeCamp"
+            title="Software Engineering - freeCodeCamp"
             subTitle="2023 - Present"
             result="ongoing"
-            des="see achievements section for list of certifications"
+            des="Full Stack"
           />
           <ResumeCard
             title="Bachelor of Science Degree in Agronomy - UNESWA"
@@ -49,7 +49,7 @@ const Education = () => {
           <p className="text-sm text-designColor tracking-[4px]">2023 - 2024</p>
           <h2 className="text-3xl md:text-4xl font-bold">Certifications</h2>
         </div>
-        <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="freeCodeCamp: Foundational C# with Microsoft Certification"
             subTitle="A certification in C# offered by the joint initiative between freeCodeCamp and Microsoft Learn"

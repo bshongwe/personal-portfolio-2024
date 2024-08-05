@@ -9,7 +9,7 @@ const ProjectsCard = ({ title, des, src }) => {
         <img
           className="w-full h-60 object-cover group-hover:scale-110 duration-300 cursor-pointer"
           src={src}
-          alt="src"
+          alt="Ernest Bhekizwe Shongwe"
         />
       </div>
       <div className="w-full mt-5 flex flex-col  gap-6">

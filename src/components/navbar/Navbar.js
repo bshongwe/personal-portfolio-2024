@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <div className="w-full h-24 sticky top-0 z-50 bg-bodyColor mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
       <div>
-        <img className="w-20 h-auto md:w-25 lg:w-33 xl:w-40 mb-28" src={logo} alt="logo" />
+        <img className="w-20 h-auto md:w-25 lg:w-33 xl:w-40 mb-28" src={logo} alt="Ernest Bhekizwe Shongwe" />
       </div>
       <div>
         <ul className="hidden mdl:inline-flex items-center gap-6 lg:gap-10">
@@ -35,7 +35,7 @@ const Navbar = () => {
         </ul>
         <span
           onClick={() => setShowMenu(!showMenu)}
-          className="text-xl mdl:hidden bg-black w-10 h-10 inline-flex items-center justify-center rounded-full text-designColor cursor-pointer"
+          className="text-xl mdl:hidden bg-black w-10 h-auto inline-flex items-center justify-center rounded-full text-designColor cursor-pointer"
         >
           <FiMenu />
         </span>
@@ -43,7 +43,7 @@ const Navbar = () => {
           <div className="w-[80%] h-screen overflow-scroll absolute top-0 left-0 bg-gray-900 p-4 scrollbar-hide">
             <div className="flex flex-col gap-8 py-2 relative">
               <div>
-                <img className="w-32" src={logo} alt="logo" />
+                <img className="w-32" src={logo} alt="Ernest Bhekizwe Shongwe" />
                 <p className="text-sm text-gray-400 mt-2">
                   Welcome to my world. Let's connect.
                 </p>
