@@ -31,7 +31,7 @@ export const featuresData = [
     id: 5,
     icon: <SiAntdesign />,
     title: "UI/UX Design",
-    des: "Let me give your users the best UI/UX whilst maintaining cross-platform stability",
+    des: "Let's improve UI/UX whilst maintaining cross-platform stability",
   },
   {
     id: 6,
