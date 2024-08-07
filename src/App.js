@@ -15,13 +15,13 @@ function App() {
         <Navbar />
       <div className="flex-grow flex flex-col max-w-screen-xl mx-auto">
         <Banner className="flex-grow" />
-        <Features className="flex-grow" />
-        <Projects className="flex-grow" />
-        <Resume className="flex-grow" />
-        <Testimonial className="flex-grow" />
+        <Features />
+        <Projects />
+        <Resume />
+        <Testimonial />
         <Contact className="flex-grow" />
-        <Footer className="flex-grow" />
-        <FooterBottom className="flex-grow" />
+        <Footer />
+        <FooterBottom />
       </div>
     </div>
   );
