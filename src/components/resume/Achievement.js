@@ -7,37 +7,37 @@ const Achievement = () => {
     <motion.div
       initial={{ opacity: 0 }}
       animate={{ opacity: 1, transition: { duration: 0.5 } }}
-      className="py-12 font-titleFont flex gap-20"
+      className="w-full flex flex-col lgl:flex-row gap-10 lgl:gap-20"
     >
       <div>
-        <div className="py-12 font-titleFont flex flex-col gap-4">
+        <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">2023 - 2024</p>
-          <h2 className="text-4xl font-bold"><i># Page 1.</i></h2>
+          <h2 className="text-4xl font-bold"><i>Academic Awards</i></h2>
         </div>
         <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Commonwealth Bank"
+            title="Valedictorian Graduate"
             subTitle="Software Engineering Programme"
-            result="ongoing"
-            des="Job simulation"
+            result="Cohort 17"
+            des="ALX Africa"
           />
           <ResumeCard
-            title="Accenture"
-            subTitle="Software Engineering Programme"
-            result="verified"
-            des="Job simulation"
+            title="<empty>"
+            subTitle="<empty>"
+            result="<empty>"
+            des="<empty>"
           />
           <ResumeCard
-            title="JP Morgan Chase & Co."
-            subTitle="Software Engineering Programme"
-            result="verified"
-            des="Job simulation"
+            title="<empty>"
+            subTitle="<empty>"
+            result="<empty>"
+            des="<empty>"
           />
           <ResumeCard
-            title="OctaNet Pvt. Ltd."
-            subTitle="MERN Stack, Python, Frontend & Python"
-            result="verified"
-            des="4-day workshop with practical, hands-on labs"
+            title="<empty>"
+            subTitle="<empty>"
+            result="<empty>"
+            des="<empty>"
           />
         </div>
       </div>
@@ -45,32 +45,32 @@ const Achievement = () => {
       <div>
         <div className="py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">2023 - 2024</p>
-          <h2 className="text-4xl font-bold"><i># Page 2.</i></h2>
+          <h2 className="text-4xl font-bold"><i>Work Awards</i></h2>
         </div>
         <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Code Alpha"
-            subTitle="title"
-            result="res"
-            des="des"
+            title="<empty>"
+            subTitle="<empty>"
+            result="<empty>"
+            des="<empty>"
           />
           <ResumeCard
-            title="ALX Africa"
-            subTitle="title"
-            result="res"
-            des="des"
+            title="<empty>"
+            subTitle="<empty>"
+            result="<empty>"
+            des="<empty>"
           />
           <ResumeCard
-            title="freeCodeCamp"
-            subTitle="title"
-            result="res"
-            des="des"
+            title="<empty>"
+            subTitle="<empty>"
+            result="<empty>"
+            des="<empty>"
           />
           <ResumeCard
-            title="Personal"
-            subTitle="title"
-            result="res"
-            des="des"
+            title="<empty>"
+            subTitle="<empty>"
+            result="<empty>"
+            des="<empty>"
           />
         </div>
       </div>

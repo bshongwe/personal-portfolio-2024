@@ -10,9 +10,9 @@ const Experience = () => {
       className="w-full flex flex-col lgl:flex-row gap-10 lgl:gap-20"
     >
       <div>
-        <div className="flex flex-col gap-4">
+        <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">2024 - 2024</p>
-          <h2 className="text-4xl font-bold">Experience</h2>
+          <h2 className="text-4xl font-bold">Simulations</h2>
         </div>
         <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
@@ -42,9 +42,21 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Sr. Code Review Engineer"
+            title="Technical Assistant"
             subTitle="ALX Africa"
             result="2024 - present"
+            des="Mentoring students from other Cohorts with ALX Africa community related issues, as well as mentoring some."
+          />
+          <ResumeCard
+            title="Community Member"
+            subTitle="Virtual Startup Campus"
+            result="2024"
+            des="Participating in community activties."
+          />
+          <ResumeCard
+            title="Sr. Code Review Engineer"
+            subTitle="ALX Africa"
+            result="2024"
             des="Reviewing of apps built by students in subsequent cohorts. Also offered mentoring for some."
           />
           <ResumeCard

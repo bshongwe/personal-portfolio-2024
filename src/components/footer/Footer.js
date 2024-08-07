@@ -10,12 +10,19 @@ const Footer = () => {
         <div className="flex gap-4">
           <span className="bannerIcon">
             <FaFacebookF />
+            <a href="https://www.facebook.com/shongwe.bhekizwe" target="_blank" rel="noopener noreferrer">
+              <FaFacebookF />
+            </a>
           </span>
           <span className="bannerIcon">
-            <FaTwitter />
+            <a href="https://www.twitter.com/ernest_b_shong" target="_blank" rel="noopener noreferrer">
+              <FaTwitter />
+            </a>
           </span>
           <span className="bannerIcon">
-            <FaLinkedinIn />
+            <a href="https://www.linkedin.com/in/ernest-shongwe" target="_blank" rel="noopener noreferrer">
+              <FaLinkedinIn />
+            </a>
           </span>
         </div>
       </div>
