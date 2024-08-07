@@ -87,8 +87,8 @@ const Experience = () => {
           />
           <ResumeCard
             title="Web Dev"
-            subTitle="OctaNet Pvt. Ltd. - (2024 - Present)"
-            result="India"
+            subTitle="OctaNet Pvt. Ltd."
+            result="2024"
             des="Full stack, Python, Java and Frontend development"
           />
           <ResumeCard
