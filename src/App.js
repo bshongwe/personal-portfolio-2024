@@ -11,15 +11,15 @@ import Testimonial from "./components/tesimonial/Testimonial";
 
 function App() {
   return (
-    <div className="w-full h-full bg-bodyColor text-lightText px-4 flex flex-col">
+    <div className="w-full h-auto bg-bodyColor text-lightText px-4">
         <Navbar />
-      <div className="flex-grow flex flex-col max-w-screen-xl mx-auto">
-        <Banner className="flex-grow" />
+      <div className="max-w-screen-xl mx-auto">
+        <Banner />
         <Features />
         <Projects />
         <Resume />
         <Testimonial />
-        <Contact className="flex-grow" />
+        <Contact />
         <Footer />
         <FooterBottom />
       </div>
