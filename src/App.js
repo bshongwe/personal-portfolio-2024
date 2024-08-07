@@ -11,17 +11,17 @@ import Testimonial from "./components/tesimonial/Testimonial";
 
 function App() {
   return (
-    <div className="w-full h-auto bg-bodyColor text-lightText px-4">
+    <div className="w-full h-full bg-bodyColor text-lightText px-4 flex flex-col">
         <Navbar />
-      <div className="max-w-screen-xl mx-auto">
-        <Banner />
-        <Features />
-        <Projects />
-        <Resume />
-        <Testimonial />
-        <Contact />
-        <Footer />
-        <FooterBottom />
+      <div className="flex-grow flex flex-col max-w-screen-xl mx-auto">
+        <Banner className="flex-grow" />
+        <Features className="flex-grow" />
+        <Projects className="flex-grow" />
+        <Resume className="flex-grow" />
+        <Testimonial className="flex-grow" />
+        <Contact className="flex-grow" />
+        <Footer className="flex-grow" />
+        <FooterBottom className="flex-grow" />
       </div>
     </div>
   );
