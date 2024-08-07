@@ -51,6 +51,12 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
+            title="ALX Software Engineering Programme"
+            subTitle="2024"
+            result="ALX Africa"
+            des="Backend Spcecialization"
+          />
+          <ResumeCard
             title="Foundational C# with Microsoft Certification"
             subTitle="2024"
             result="freeCodeCamp | Microsoft Learn"
@@ -70,7 +76,7 @@ const Education = () => {
           />
           <ResumeCard
             title="JavaScript Algorithms and Data Structures"
-            subTitle="2023Certification"
+            subTitle="2023"
             result=""
             des="Certification"
           />
