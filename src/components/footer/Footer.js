@@ -9,7 +9,6 @@ const Footer = () => {
         <img className="w-32" src={logo} alt="Ernest Bhekizwe Shongwe" />
         <div className="flex gap-4">
           <span className="bannerIcon">
-            <FaFacebookF />
             <a href="https://www.facebook.com/shongwe.bhekizwe" target="_blank" rel="noopener noreferrer">
               <FaFacebookF />
             </a>

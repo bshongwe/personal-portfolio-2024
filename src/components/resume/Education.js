@@ -77,7 +77,7 @@ const Education = () => {
           <ResumeCard
             title="JavaScript Algorithms and Data Structures"
             subTitle="2023"
-            result=""
+            result="freeCodeCamp"
             des="Certification"
           />
         </div>
