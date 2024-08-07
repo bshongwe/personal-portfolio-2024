@@ -17,28 +17,28 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Software Engineering - ALX Africa"
+            title="Software Engineering"
             subTitle="April 22, 2023 - July 27, 2024"
-            result="verified: 148%"
-            des="Backend (Specialization)"
+            result="ALX Africa"
+            des="Backend (Specialization), verified: 150%"
           />
           <ResumeCard
-            title="Software Engineering - ALX Africa"
+            title="Software Engineering"
             subTitle="June 17, 2023 - Aprl 19, 2024"
-            result="verified: 149%"
-            des="Full Stack (Foundations)"
+            result="ALX Africa"
+            des="Full Stack (Foundations), verified: 149%"
           />
           <ResumeCard
-            title="Software Engineering - freeCodeCamp"
+            title="Software Engineering"
             subTitle="2023 - Present"
-            result="ongoing"
-            des="Full Stack"
+            result="freeCodeCamp"
+            des="Full Stack, ongoing"
           />
           <ResumeCard
-            title="Bachelor of Science Degree in Agronomy - UNESWA"
+            title="Bachelor of Science Degree in Agronomy"
             subTitle="2009 - 2012"
-            result="graduated"
-            des=""
+            result="UNESWA"
+            des="graduated"
           />
         </div>
       </div>
@@ -51,28 +51,28 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="freeCodeCamp: Foundational C# with Microsoft Certification"
-            subTitle="A certification in C# offered by the joint initiative between freeCodeCamp and Microsoft Learn"
-            result="2024"
-            des="https://www.freecodecamp.org/certification/fcc6545321d-6a24-4ae4-acad-5eecd35c1d77/foundational-c-sharp-with-microsoft"
+            title="Foundational C# with Microsoft Certification"
+            subTitle="2024"
+            result="freeCodeCamp | Microsoft Learn"
+            des="C# certification"
           />
           <ResumeCard
-            title="freeCodeCamp: Backend Development and APIs"
-            subTitle="A certification in Backend Development and APIs offered freeCodeCamp"
-            result="2023"
-            des="https://www.freecodecamp.org/certification/fcc6545321d-6a24-4ae4-acad-5eecd35c1d77/back-end-development-and-apis"
+            title="Backend Development and APIs"
+            subTitle="2023"
+            result="freeCodeCamp"
+            des="Certification"
           />
           <ResumeCard
-            title="freeCodeCamp: Front End Development Libraries"
-            subTitle="A certification in Frontend Development libraries offered freeCodeCamp"
-            result="2023"
-            des="https://www.freecodecamp.org/certification/fcc6545321d-6a24-4ae4-acad-5eecd35c1d77/front-end-development-libraries"
+            title="Front End Development Libraries"
+            subTitle="2023"
+            result="freeCodeCamp"
+            des="Certification"
           />
           <ResumeCard
-            title="freeCodeCamp: JavaScript Algorithms and Data Structures"
-            subTitle="A certification in JavaScript Algorithms and Data Structures offered freeCodeCamp"
-            result="2023"
-            des=""
+            title="JavaScript Algorithms and Data Structures"
+            subTitle="2023Certification"
+            result=""
+            des="Certification"
           />
         </div>
       </div>
