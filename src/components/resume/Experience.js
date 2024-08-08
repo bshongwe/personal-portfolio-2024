@@ -75,7 +75,7 @@ const Experience = () => {
             title="Access Control Officer"
             subTitle="CAAF"
             result="2024"
-            des="Participating in the development of Vini Vidi Vici"
+            des="Participating in the CAAF24 event"
           />
         </div>
       </div>
