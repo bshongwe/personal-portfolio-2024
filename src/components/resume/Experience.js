@@ -25,7 +25,7 @@ const Experience = () => {
             title="Software Engineer"
             subTitle="JP Morgan Chase & Co."
             result="2024"
-            des="Building & improving JPMC's banking web apps (Job Simulations: Agile, Software Engineering Lite & Software Engineering)."
+            des="Building & improving JPMC's banking web apps."
           />
           <ResumeCard
             title="Software Engineer | Web Developer"
@@ -71,31 +71,61 @@ const Experience = () => {
             result="2024"
             des="Participating in the development of Vini Vidi Vici"
           />
+          <ResumeCard
+            title="Access Control Officer"
+            subTitle="CAAF"
+            result="2024"
+            des="Participating in the development of Vini Vidi Vici"
+          />
         </div>
       </div>
       <div>
         <div className="flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">2024 - 2024</p>
-          <h2 className="text-4xl font-bold">Internship</h2>
+          <h2 className="text-4xl font-bold">Tech Jobs</h2>
         </div>
         <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="DevOps/ DevSecOps Engineer"
+            title="Cybersecurity & DevSecOps Engineer"
             subTitle="KalKey Consultation Solutions Pvt. Ltd."
             result="2024"
-            des="DevOps, DevSecOps, Cybersecurity"
+            des="Automated CI/CD | IaC | IAM | SDLC | Pen Testing"
+          />
+          <ResumeCard
+            title="DevOps"
+            subTitle="KalKey Consultation Solutions Pvt. Ltd."
+            result="2024"
+            des="Git | K8s | Docker | AWS | Ansible | Terraform | Jenkins | GCP"
+          />
+          <ResumeCard
+            title="Python Dev"
+            subTitle="OctaNet Pvt. Ltd."
+            result="2024"
+            des="Full-stack | Python | Backend"
           />
           <ResumeCard
             title="Web Dev"
             subTitle="OctaNet Pvt. Ltd."
             result="2024"
-            des="Full stack, Python, Java and Frontend development"
+            des="Full-stack | Java | Frontend"
           />
           <ResumeCard
-            title="Web Dev | App"
+            title="Web Dev"
             subTitle="Code Alpha"
-            result="2024"
-            des="App (mobile & web) development"
+            result="2023 - 2024"
+            des="VS Code"
+          />
+          <ResumeCard
+            title="App Dev"
+            subTitle="Code Alpha"
+            result="2023 -2023"
+            des="Android studio | Swift | Kotlin"
+          />
+          <ResumeCard
+            title="Web Dev"
+            subTitle="Upwork"
+            result="2023 -2023"
+            des="Freelancer"
           />
         </div>
       </div>
