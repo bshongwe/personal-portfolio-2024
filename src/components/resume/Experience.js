@@ -36,7 +36,7 @@ const Experience = () => {
         </div>
       </div>
       <div>
-        <div className="flex flex-col gap-4">
+        <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">2024 - 2024</p>
           <h2 className="text-4xl font-bold">Volunteer</h2>
         </div>
@@ -80,7 +80,7 @@ const Experience = () => {
         </div>
       </div>
       <div>
-        <div className="flex flex-col gap-4">
+        <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">2024 - 2024</p>
           <h2 className="text-4xl font-bold">Tech Jobs</h2>
         </div>
