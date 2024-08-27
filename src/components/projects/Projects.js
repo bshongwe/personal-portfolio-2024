@@ -33,7 +33,6 @@ const Projects = () => {
         />
         <ProjectsCard
           title="Nestec"
-<<<<<<< HEAD
           des="Agric farming app | Bootstrap | Webpack | MongoDB | Redis cache-aside pattern"
           src={projectThree}
         />
@@ -75,20 +74,6 @@ const Projects = () => {
         <ProjectsCard
           title="Recalla"
           des="Next.js | React | Firebase | OpenAI | Clerk | Stripe | Tailwind"
-=======
-          des="Agriculture farming app | Bootstrap | Webpack,
-              MongoDB + Redis cache-aside pattern"
-          src={projectOne}
-        />
-        <ProjectsCard
-          title="ToDo List App"
-          des="HTML5, JS & CSS3"
-          src={projectTwo}
-        />
-        <ProjectsCard
-          title="eCommerce Website"
-          des="Project still under development"
->>>>>>> cf694de3d9fe9d747a3ba967cd82958dd3f4bcdc
           src={projectThree}
         />
       </div>
