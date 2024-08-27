@@ -17,6 +17,12 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
+            title="Software Engineering Fellowship"
+            subTitle="July 2024 - Present"
+            result="Headstarter"
+            des="artificial Intelligence"
+          />
+          <ResumeCard
             title="Software Engineering"
             subTitle="April 22, 2023 - July 27, 2024"
             result="ALX Africa"
@@ -32,7 +38,7 @@ const Education = () => {
             title="Software Engineering"
             subTitle="2023 - Present"
             result="freeCodeCamp"
-            des="Full Stack, ongoing"
+            des="Full Stack Web Development, ongoing"
           />
           <ResumeCard
             title="Bachelor of Science Degree in Agronomy"
@@ -54,7 +60,7 @@ const Education = () => {
             title="ALX Software Engineering Programme"
             subTitle="2024"
             result="ALX Africa"
-            des="Backend Spcecialization"
+            des="Full-stack with Backend Spcecialization"
           />
           <ResumeCard
             title="Foundational C# with Microsoft Certification"
