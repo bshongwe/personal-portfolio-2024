@@ -33,18 +33,47 @@ const Projects = () => {
         />
         <ProjectsCard
           title="Nestec"
-          des="Agriculture farming app | Bootstrap | Webpack,
-              MongoDB + Redis cache-aside pattern"
-          src={projectOne}
+          des="Agric farming app | Bootstrap | Webpack | MongoDB | Redis cache-aside pattern"
+          src={projectThree}
         />
         <ProjectsCard
           title="ToDo List App"
           des="HTML5, JS & CSS3"
+          src={projectOne}
+        />
+        <ProjectsCard
+          title="NeXtro"
+          des="MERN | Tailwind | Docker | Firebase | Jest | JWT | Cloudinary"
+          src={projectThree}
+        />
+        <ProjectsCard
+          title="AI Pantry Tracker"
+          des="Next.js | React | Firebase | OpenAI | Clerk | Tailwind"
+          src={projectOne}
+        />
+        <ProjectsCard
+          title="AI Customer Support"
+          des="Next.js | React | Pinecone | OpenAI | Tailwind"
           src={projectTwo}
         />
         <ProjectsCard
-          title="eCommerce Website"
-          des="Project still under development"
+          title="AI Flashcards & Stripe"
+          des="Next.js | React | Firebase | OpenAI | Clerk | Stripe | Tailwind"
+          src={projectThree}
+        />
+        <ProjectsCard
+          title="Rate My Professor AI Assistant"
+          des="Next.js | React | Pinecone | OpenAI | Tailwind"
+          src={projectThree}
+        />
+        <ProjectsCard
+          title="Personal Website"
+          des="HTML5 | JS |SCSS | DNS"
+          src={projectOne}
+        />
+        <ProjectsCard
+          title="Recalla"
+          des="Next.js | React | Firebase | OpenAI | Clerk | Stripe | Tailwind"
           src={projectThree}
         />
       </div>
