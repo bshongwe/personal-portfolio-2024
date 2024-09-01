@@ -7,13 +7,13 @@ export const featuresData = [
   {
     id: 1,
     title: "Business Strategy",
-    des: "Let me help you build your business & your brand",
+    des: "Let's build your business & your brand",
   },
   {
     id: 2,
     icon: <AiFillAppstore />,
     title: "App Development",
-    des: "I build cutting edge apps for all platforms",
+    des: "Let's build multi-platform cutting edge apps",
   },
   {
     id: 3,
