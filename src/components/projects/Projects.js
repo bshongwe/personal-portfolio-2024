@@ -23,22 +23,22 @@ const Projects = () => {
         />
         <ProjectsCard
           title="Brainwaive Landing Page"
-          des="Will fill this in later"
+          des="Next.js | Tailwind"
           src={projectTwo}
         />
         <ProjectsCard
           title="Earth_FX Trading App"
-          des="Project still under development"
+          des="Bootstrap | TradeView API"
           src={projectThree}
         />
         <ProjectsCard
           title="Nestec"
-          des="Agric farming app | Bootstrap | Webpack | MongoDB | Redis cache-aside pattern"
+          des="Agric farming app | Bootstrap | Webpack | MongoDB | Redis (cache-aside pattern)"
           src={projectThree}
         />
         <ProjectsCard
           title="ToDo List App"
-          des="HTML5, JS & CSS3"
+          des="HTML5 | JS | CSS3"
           src={projectOne}
         />
         <ProjectsCard
