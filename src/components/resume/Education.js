@@ -17,28 +17,40 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Software Engineering Fellowship"
+            title="DevSecOps Learning Path"
+            subTitle="Septmeber 2024 - Present"
+            result="Google Cloud Skills Boost"
+            des="DevSecOps | Machine Learning | Ai | Google Cloud"
+          />
+          <ResumeCard
+            title="Software Engineering"
+            subTitle="July 2023 - Present"
+            result="freeCodeCamp"
+            des="Full Stack | Web Development"
+          />
+          <ResumeCard
+            title="Software Engineering"
             subTitle="July 2024 - Present"
+            result="AWS educate"
+            des="AWS"
+          />
+          <ResumeCard
+            title="Software Engineering"
+            subTitle="July 2024 - September 2024"
             result="Headstarter"
-            des="artificial Intelligence"
+            des="Ai | Full Stack Software Engineering | Product Development"
           />
           <ResumeCard
             title="Software Engineering"
             subTitle="April 22, 2023 - July 27, 2024"
             result="ALX Africa"
-            des="Backend (Specialization), verified: 150%"
+            des="certified: Backend (Specialization)"
           />
           <ResumeCard
             title="Software Engineering"
             subTitle="June 17, 2023 - Aprl 19, 2024"
             result="ALX Africa"
-            des="Full Stack (Foundations), verified: 149%"
-          />
-          <ResumeCard
-            title="Software Engineering"
-            subTitle="2023 - Present"
-            result="freeCodeCamp"
-            des="Full Stack Web Development, ongoing"
+            des="certified: Full Stack (Foundations)"
           />
           <ResumeCard
             title="Bachelor of Science Degree in Agronomy"
@@ -57,34 +69,70 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
+            title="Google Developer Essentials"
+            subTitle="2024"
+            result="Google"
+            des="AutoML | GCP"
+          />
+          <ResumeCard
+            title="AWS Knowlegde: Cloud Essentials"
+            subTitle="2024"
+            result="AWS"
+            des="AWS"
+          />
+          <ResumeCard
+            title="AWS Knowlegde: Serverless"
+            subTitle="2024"
+            result="AWS"
+            des="AWS"
+          />
+          <ResumeCard
+            title="AWS Knowlegde: Architecting"
+            subTitle="2024"
+            result="AWS"
+            des="AWS"
+          />
+          <ResumeCard
+            title="AWS Knowlegde: AWS for Games: Cloud Game Development"
+            subTitle="2024"
+            result="AWS"
+            des="AWS"
+          />
+          <ResumeCard
             title="ALX Software Engineering Programme"
             subTitle="2024"
             result="ALX Africa"
-            des="Full-stack with Backend Spcecialization"
+            des="Full-stack | Backend"
           />
           <ResumeCard
             title="Foundational C# with Microsoft Certification"
             subTitle="2024"
             result="freeCodeCamp | Microsoft Learn"
-            des="C# certification"
+            des="C# | Azure"
+          />
+          <ResumeCard
+            title="Microsoft Learn Cloud Skilss Challenge at Build 2024"
+            subTitle="2024"
+            result="Microsoft Learn"
+            des="Azure SQL | Microsoft Azure ML"
           />
           <ResumeCard
             title="Backend Development and APIs"
             subTitle="2023"
             result="freeCodeCamp"
-            des="Certification"
+            des="JS | Replit | GitHub"
           />
           <ResumeCard
             title="Front End Development Libraries"
             subTitle="2023"
             result="freeCodeCamp"
-            des="Certification"
+            des="JS | Replit | GitHub | CodePen"
           />
           <ResumeCard
             title="JavaScript Algorithms and Data Structures"
             subTitle="2023"
             result="freeCodeCamp"
-            des="Certification"
+            des="JS | Replit | GitHub"
           />
         </div>
       </div>

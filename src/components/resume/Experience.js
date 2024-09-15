@@ -44,7 +44,7 @@ const Experience = () => {
           <ResumeCard
             title="Technical Assistant"
             subTitle="ALX Africa"
-            result="2024 - present"
+            result="2024"
             des="Mentoring students from other Cohorts with ALX Africa community related issues, as well as mentoring some."
           />
           <ResumeCard
@@ -86,22 +86,28 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Cybersecurity & DevSecOps Engineer"
-            subTitle="KalKey Consultation Solutions Pvt. Ltd."
+            title="DevSecOps Engineer"
+            subTitle="KalKey"
             result="2024"
             des="Automated CI/CD | IaC | IAM | SDLC | Pen Testing"
           />
           <ResumeCard
             title="DevOps"
-            subTitle="KalKey Consultation Solutions Pvt. Ltd."
+            subTitle="KalKey"
             result="2024"
             des="Git | K8s | Docker | AWS | Ansible | Terraform | Jenkins | GCP"
+          />
+          <ResumeCard
+            title="Ai Sofware Engineering Fellow"
+            subTitle="Headstarter"
+            result="2024"
+            des="Git | Firebase | Next.js | Material UI | OpenAI | Clerk | CI/CD | Stripe"
           />
           <ResumeCard
             title="Python Dev"
             subTitle="OctaNet Pvt. Ltd."
             result="2024"
-            des="Full-stack | Python | Backend"
+            des="Full-stack | Python | Backend | Unittests"
           />
           <ResumeCard
             title="Web Dev"
@@ -113,13 +119,13 @@ const Experience = () => {
             title="Web Dev"
             subTitle="Code Alpha"
             result="2023 - 2024"
-            des="VS Code"
+            des="VS Code | Full-stack"
           />
           <ResumeCard
             title="App Dev"
             subTitle="Code Alpha"
             result="2023 -2023"
-            des="Android studio | Swift | Kotlin"
+            des="Android Studio | Swift | Kotlin"
           />
           <ResumeCard
             title="Web Dev"
