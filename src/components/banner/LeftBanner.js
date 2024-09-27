@@ -27,9 +27,9 @@ const LeftBanner = () => {
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
           I'm a passionate problem-solver. I strike a balance between backend
-          & frontend, although I enjoy the latter. I employ creative
-          solutions, but prioritise functionality of the product. Let's connect
-          and build amazing projects...
+          & frontend. Am also a DevSecOps, CI-CD, Cloud and Ai enthusiast. I
+          use creative solutions, but prioritise product functionality.
+          Let's connect...
         </p>
       </div>
      {/* Media */}
