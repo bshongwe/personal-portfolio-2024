@@ -208,7 +208,7 @@ const Testimonial = () => {
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                     Nairobi, Kenya
                   </p>
-                  <h3 className="text-2xl font-bold">Faith Okoth</h3>
+                  <h3 className="text-2xl font-bold">Irene Aragona</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Sands Technology | ALX Africa
                   </p>
@@ -235,7 +235,10 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Will fill the quotes later.
+                    Ernest Bhekizwe Shongwe exemplifies the goals of this
+                    program, showcasing the impact and potential of youth in
+                    tech... has shown exceptional academic prowess coupled with
+                    an unwavering sense of responsibility and commitment.
                   </p>
                 </div>
               </div>

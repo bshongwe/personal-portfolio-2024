@@ -13,7 +13,7 @@ const ContactLeft = () => {
       <div className="flex flex-col gap-4">
         <h3 className="text-3xl font-bold text-white">Ernest Bhekizwe Shongwe</h3>
         <p className="text-lg font-normal text-gray-400">
-          Full Stack Software Engineer
+          Certified Software Engineer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
           For queries regarding job offers, consultations or any
