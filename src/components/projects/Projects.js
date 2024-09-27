@@ -48,22 +48,22 @@ const Projects = () => {
         />
         <ProjectsCard
           title="AI Pantry Tracker"
-          des="Next.js | React | Firebase | OpenAI | Clerk | Tailwind"
+          des="Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind"
           src={projectFive}
         />
         <ProjectsCard
           title="AI Customer Support"
-          des="Next.js | React | Pinecone | OpenAI | Tailwind"
+          des="Next.js | React | Pinecone | LLMs RAG | Clerk | Stripe | Tailwind"
           src={projectFive}
         />
         <ProjectsCard
           title="AI Flashcards & Stripe"
-          des="Next.js | React | Firebase | OpenAI | Clerk | Stripe | Tailwind"
+          des="Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind"
           src={projectFive}
         />
         <ProjectsCard
           title="Rate My Professor AI Assistant"
-          des="Next.js | React | Pinecone | OpenAI | Tailwind"
+          des="Next.js | React | Pinecone | LLMs | RAG | Clerk | Stripe | Tailwind"
           src={projectFive}
         />
         <ProjectsCard
@@ -73,7 +73,7 @@ const Projects = () => {
         />
         <ProjectsCard
           title="Recalla"
-          des="Next.js | React | Firebase | OpenAI | Clerk | Stripe | Tailwind"
+          des="Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind"
           src={projectFive}
         />
       </div>
