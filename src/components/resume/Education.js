@@ -17,40 +17,40 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="AWS - Linux, DevOps, Kubernetes & Docker Course"
-            subTitle="13 Septmeber 2024 - Present"
-            result="Google Cloud Skills Boost"
-            des="AWS | Linux | K8s | Docker | GitLab | GitHub | CI-CD | Ansible | Terraform"
+            title="Complete DevOps with Linux, Kubernetes & AWS"
+            subTitle="13 September 2024 - Present"
+            result="KalKey"
+            des="On-job & job-ready training"
           />
           <ResumeCard
             title="ALX Applied Ai"
             subTitle="Septmeber 2024 - Present"
             result="ALX Africa"
-            des="Ai"
+            des="Ai | RAG"
           />
           <ResumeCard
             title="DevSecOps Learning Path"
             subTitle="Septmeber 2024 - Present"
             result="Google Cloud Skills Boost"
-            des="DevSecOps | Machine Learning | Ai | Google Cloud"
+            des="Hands-on Labs & Coursework Assessments"
           />
           <ResumeCard
             title="Software Engineering"
             subTitle="January 2023 - Present"
             result="freeCodeCamp"
-            des="Full Stack | Web Development"
+            des="Self-paced certifications"
           />
           <ResumeCard
             title="Software Engineering"
             subTitle="July 2024 - Present"
             result="AWS educate"
-            des="AWS"
+            des="Self-paced certifications & badges"
           />
           <ResumeCard
-            title="Software Engineering Fellowship in Artificial Intelligence"
+            title="Software Engineering Fellowship"
             subTitle="July 2024 - September 2024"
             result="Headstarter"
-            des="Ai | Full Stack Software Engineering | Product Development"
+            des="Artificial Intelligence Fellowship"
           />
           <ResumeCard
             title="Software Engineering"
