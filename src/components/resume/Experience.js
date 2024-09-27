@@ -42,6 +42,12 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
+            title="Tutor"
+            subTitle="ALX Africa"
+            result="September 2024"
+            des="to be filled later."
+          />
+          <ResumeCard
             title="Technical Assistant"
             subTitle="ALX Africa"
             result="2024"
@@ -89,13 +95,13 @@ const Experience = () => {
             title="DevSecOps Engineer"
             subTitle="KalKey"
             result="2024"
-            des="Automated CI/CD | IaC | IAM | SDLC | Pen Testing"
+            des="AWS | Terraform | GitLab | GitHub | Automated CI/CD | IaC | IAM | SDLC | Pen Testing"
           />
           <ResumeCard
             title="DevOps"
             subTitle="KalKey"
             result="2024"
-            des="Git | K8s | Docker | AWS | Ansible | Terraform | Jenkins | GCP"
+            des="AWS | GitLab | GitLab | K8s | Docker | AWS | Ansible | Terraform | Jenkins | GCP"
           />
           <ResumeCard
             title="Ai Sofware Engineering Fellow"
@@ -119,7 +125,7 @@ const Experience = () => {
             title="Web Dev"
             subTitle="Code Alpha"
             result="2023 - 2024"
-            des="VS Code | Full-stack"
+            des="VS Code | Full-stack | JS | Typescript | MERN"
           />
           <ResumeCard
             title="App Dev"

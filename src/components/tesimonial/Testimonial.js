@@ -122,10 +122,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design
+                        NeXtro & Nestec
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Jan 4, 2024 - Mar 30, 2024
+                        via LinkedIn - Mar 4, 2024 (15:45 GMT+2)
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -137,7 +137,9 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Will fill the quotes later.
+                    Ernest is a dedicated and talented individual... I
+                    witnessed his exceptional problem-solving abilities and his
+                    commitment to mastering new technologies and concepts.
                   </p>
                 </div>
               </div>
@@ -155,11 +157,11 @@ const Testimonial = () => {
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
-                    Johannesburg, South Africa
+                    Pretoria, South Africa
                   </p>
-                  <h3 className="text-2xl font-bold">Larreth Jimu</h3>
+                  <h3 className="text-2xl font-bold">Zikona Mnyaka</h3>
                   <p className="text-base tracking-wide text-gray-500">
-                    Melsoft Academy
+                    Autumn Skies Trading
                   </p>
                 </div>
               </div>
@@ -169,10 +171,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design
+                        Simple Shell (UNIX) & Monty
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via LinkedIn - Jan 4, 2024 - Mar 30, 2024
+                        via LinkedIn - Jul 6, 2024 (09:45 GMT+2)
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -184,7 +186,9 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Will fill the quotes later.
+                    Ernest possesses a comprehensive understanding of both
+                    frontend and backend technologies... he excells in
+                    collaborative environents.
                   </p>
                 </div>
               </div>
@@ -204,7 +208,7 @@ const Testimonial = () => {
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                     Nairobi, Kenya
                   </p>
-                  <h3 className="text-2xl font-bold">Alfred Tuva</h3>
+                  <h3 className="text-2xl font-bold">Faith Okoth</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Sands Technology | ALX Africa
                   </p>
@@ -216,7 +220,7 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                        ALX SE
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
                         via Twitter - Jan 4, 2024 - Mar 30, 2024
@@ -263,7 +267,7 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design
+                        NeXtro
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
                         via LinkedIn - Jan 4, 2024 - Mar 30, 2024
