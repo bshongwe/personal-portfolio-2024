@@ -44,12 +44,12 @@ const Projects = () => {
         <ProjectsCard
           title="NeXtro"
           des="MERN | Tailwind | Docker | Firebase | Jest | JWT | Cloudinary"
-          src={projectThree}
+          src={projectFour}
         />
         <ProjectsCard
           title="AI Pantry Tracker"
           des="Next.js | React | Firebase | OpenAI | Clerk | Tailwind"
-          src={projectFour}
+          src={projectFive}
         />
         <ProjectsCard
           title="AI Customer Support"
