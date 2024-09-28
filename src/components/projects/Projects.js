@@ -38,7 +38,7 @@ const Projects = () => {
         />
         <ProjectsCard
           title="Blog"
-          des="HTML5 | JS | CSS3"
+          des="Next.js | Typescript | React DOM | Jest | Node.js"
           src={projectTen}
         />
         <ProjectsCard
