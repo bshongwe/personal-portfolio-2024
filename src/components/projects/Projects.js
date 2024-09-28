@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree, projectFour, projectFive, projectSix, projectSeven, projectEight, projectNine } from "../../assets/index";
+import { projectOne, projectTwo, projectThree, projectFour, projectFive, projectSix, projectSeven, projectEight, projectNine, projectTen } from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -37,9 +37,9 @@ const Projects = () => {
           src={projectFour}
         />
         <ProjectsCard
-          title="ToDo List App"
+          title="Blog"
           des="HTML5 | JS | CSS3"
-          src={projectOne}
+          src={projectTen}
         />
         <ProjectsCard
           title="NeXtro"

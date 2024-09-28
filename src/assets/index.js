@@ -9,6 +9,7 @@ import projectSix from "./images/projects/projectSix.jpg";
 import projectSeven from "./images/projects/projectSeven.jpg";
 import projectEight from "./images/projects/projectEight.jpg";
 import projectNine from "./images/projects/projectNine.jpg";
+import projectTen from "./images/projects/projectTen.jpg";
 import testimonialOne from "./images/testmonial/testimonialOne.png";
 import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import testimonialThree from "./images/testmonial/testimonialThree.png";
@@ -28,6 +29,7 @@ export {
   projectSeven,
   projectEight,
   projectNine,
+  projectTen,
   testimonialOne,
   testimonialTwo,
   testimonialThree,
