@@ -31,13 +31,13 @@ const Achievement = () => {
             title="Hackerthon Participant"
             subTitle="Early Bird Pegasaurus"
             result="Holopin"
-            des="Hacktoberfest"
+            des="Hacktoberfest 2024"
           />
           <ResumeCard
             title="Hackerthon Participant"
             subTitle="Hacktoberfest 2024: Registered"
             result="Holopin"
-            des="Hacktoberfest"
+            des="Hacktoberfest 2024"
           />
         </div>
       </div>
@@ -49,28 +49,28 @@ const Achievement = () => {
         </div>
         <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="<empty>"
-            subTitle="<empty>"
-            result="<empty>"
-            des="<empty>"
+            title="Cybersecurity Internship I"
+            subTitle="2024"
+            result="verified"
+            des="KalKey"
           />
           <ResumeCard
-            title="<empty>"
-            subTitle="<empty>"
-            result="<empty>"
-            des="<empty>"
+            title="DevOps Internship Program II"
+            subTitle="2024"
+            result="verified"
+            des="KalKey"
           />
           <ResumeCard
-            title="<empty>"
-            subTitle="<empty>"
-            result="<empty>"
-            des="<empty>"
+            title="DevOps Internship Program I"
+            subTitle="2024"
+            result="verified"
+            des="KalKey"
           />
           <ResumeCard
-            title="<empty>"
-            subTitle="<empty>"
-            result="<empty>"
-            des="<empty>"
+            title="J.P. Morgan Chase & Co. - Software Engineering Job Simulation"
+            subTitle="2024"
+            result="verified"
+            des="Forage"
           />
         </div>
       </div>
