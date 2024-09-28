@@ -22,22 +22,22 @@ const Achievement = () => {
             des="ALX Africa"
           />
           <ResumeCard
-            title="<empty>"
-            subTitle="<empty>"
-            result="<empty>"
-            des="<empty>"
+            title="Cloud Participant"
+            subTitle="Microsoft Learn Cloud Skills Challenge at Build 2024"
+            result="verified"
+            des="Microsoft"
           />
           <ResumeCard
-            title="<empty>"
-            subTitle="<empty>"
-            result="<empty>"
-            des="<empty>"
+            title="Hackerthon Participant"
+            subTitle="Early Bird Pegasaurus"
+            result="Holopin"
+            des="Hacktoberfest"
           />
           <ResumeCard
-            title="<empty>"
-            subTitle="<empty>"
-            result="<empty>"
-            des="<empty>"
+            title="Hackerthon Participant"
+            subTitle="Hacktoberfest 2024: Registered"
+            result="Holopin"
+            des="Hacktoberfest"
           />
         </div>
       </div>

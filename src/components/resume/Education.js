@@ -81,8 +81,14 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
+            title="Developing a Google SRE Culture"
+            subTitle="Sept. 2024"
+            result="Google"
+            des="AutoML | GCP"
+          />
+          <ResumeCard
             title="Google Developer Essentials"
-            subTitle="2024"
+            subTitle="Sept. 2024"
             result="Google"
             des="AutoML | GCP"
           />
@@ -121,12 +127,6 @@ const Education = () => {
             subTitle="2024"
             result="freeCodeCamp | Microsoft Learn"
             des="C# | Azure"
-          />
-          <ResumeCard
-            title="Microsoft Learn Cloud Skilss Challenge at Build 2024"
-            subTitle="2024"
-            result="Microsoft Learn"
-            des="Azure SQL | Microsoft Azure ML"
           />
           <ResumeCard
             title="Backend Development and APIs"
