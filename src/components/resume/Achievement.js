@@ -67,10 +67,10 @@ const Achievement = () => {
             des="KalKey"
           />
           <ResumeCard
-            title="J.P. Morgan Chase & Co. - Software Engineering Job Simulation"
+            title="Software Engineering Job Simulation"
             subTitle="2024"
             result="verified"
-            des="Forage"
+            des="J.P. Morgan Chase & Co."
           />
         </div>
       </div>
