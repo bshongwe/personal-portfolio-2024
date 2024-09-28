@@ -54,13 +54,7 @@ const Experience = () => {
             des="Mentoring students from other Cohorts with ALX Africa community related issues, as well as mentoring some."
           />
           <ResumeCard
-            title="Community Member"
-            subTitle="Virtual Startup Campus"
-            result="2024"
-            des="Participating in community activties."
-          />
-          <ResumeCard
-            title="Sr. Code Review Engineer"
+            title="Snr. Code Review Engineer"
             subTitle="ALX Africa"
             result="2024"
             des="Reviewing of apps built by students in subsequent cohorts. Also offered mentoring for some."
