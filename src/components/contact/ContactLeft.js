@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
+import { FaFacebookF, FaTwitter, FaLinkedinIn, FaDiscord } from "react-icons/fa";
 import { contactImg } from "../../assets/index";
 
 const ContactLeft = () => {
@@ -21,7 +21,7 @@ const ContactLeft = () => {
           ASAP.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+27655981851</span>
+          Phone: <span className="text-lightText">+27-834-310-296</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Email: <span className="text-lightText">shongwe.bhekizwe@yahoo.com</span>
@@ -43,6 +43,11 @@ const ContactLeft = () => {
           <span className="bannerIcon">
             <a href="https://www.linkedin.com/in/ernest-shongwe" target="_blank" rel="noopener noreferrer">
               <FaLinkedinIn />
+            </a>
+          </span>
+          <span className="bannerIcon">
+            <a href="https://discord.com/invite/vqYpAVfk" target="_blank" rel="noopener noreferrer"> {/* Replace with your Discord link */}
+              <FaDiscord /> {/* Discord icon */}
             </a>
           </span>
         </div>
