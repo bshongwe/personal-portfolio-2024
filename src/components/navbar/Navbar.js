@@ -9,9 +9,10 @@ import { navLinksdata } from '../../constants';
 const Navbar = () => {
   const [showMenu, setShowMenu]=useState(false)
   return (
-    <div className="w-full h-24 sticky top-0 z-50 bg-bodyColor mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
+    <div className="w-full h-20 sticky top-0 z-50 bg-bodyColor mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
       <div>
-        <img className="w-20 h-auto md:w-25 lg:w-33 xl:w-40 mb-28" src={logo} alt="Ernest Bhekizwe Shongwe" />
+        {/* Adjusted logo size to be 50% smaller */}
+        <img className="w-10 h-auto md:w-12 lg:w-16 xl:w-20 mb-0" src={logo} alt="Ernest Bhekizwe Shongwe" />
       </div>
       <div>
         <ul className="hidden mdl:inline-flex items-center gap-6 lg:gap-10">
