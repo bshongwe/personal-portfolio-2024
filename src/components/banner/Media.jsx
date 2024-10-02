@@ -1,6 +1,6 @@
 import React from 'react'
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaReact } from "react-icons/fa";
-import { SiTailwindcss, SiFigma, SiNextdotjs } from "react-icons/si";
+import { FaFacebookF, FaTwitter, FaLinkedinIn, FaReact, FaPython } from "react-icons/fa";
+import { SiTailwindcss, SiFigma, SiNextdotjs, SiTensorflow, SiDocker, SiKubernetes } from "react-icons/si";
 const Media = () => {
   return (
     <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
@@ -42,6 +42,19 @@ const Media = () => {
             </span>
             <span className="bannerIcon">
               <SiFigma />
+            </span>
+            {/* Adding AI and DevSecOps related icons */}
+            <span className="bannerIcon">
+              <FaPython /> {/* Python for AI */}
+            </span>
+            <span className="bannerIcon">
+              <SiTensorflow /> {/* TensorFlow for AI */}
+            </span>
+            <span className="bannerIcon">
+              <SiDocker /> {/* Docker for DevSecOps */}
+            </span>
+            <span className="bannerIcon">
+              <SiKubernetes /> {/* Kubernetes for DevSecOps */}
             </span>
           </div>
         </div>
