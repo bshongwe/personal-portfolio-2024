@@ -366,7 +366,7 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        PWAs Expert
+                        PassGuard1
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
                         via LinkedIn - Aug 9, 2024 (22:01 GMT+2)
