@@ -30,35 +30,37 @@ const Media = () => {
           <h2 className="text-base uppercase font-titleFont mb-4">
             BEST SKILLED AT
           </h2>
-          <div className="flex gap-4">
-            <span className="bannerIcon">
-              <FaReact />
-            </span>
-            <span className="bannerIcon">
-              <SiNextdotjs />
-            </span>
-            <span className="bannerIcon">
-              <SiTailwindcss />
-            </span>
-            <span className="bannerIcon">
-              <SiFigma />
-            </span>
-          </div>
+
+        {/* First row of skills */}
+        <div className="flex gap-4 mb-4">
+          <span className="bannerIcon">
+            <FaReact />
+          </span>
+          <span className="bannerIcon">
+            <SiNextdotjs />
+          </span>
+          <span className="bannerIcon">
+            <SiTailwindcss />
+          </span>
+          <span className="bannerIcon">
+            <SiFigma />
+          </span>
         </div>
-        <div>
-          <div className="flex gap-4">
-            <span className="bannerIcon">
-              <FaPython />
-            </span>
-            <span className="bannerIcon">
-              <SiTensorflow />
-            </span>
-            <span className="bannerIcon">
-              <SiDocker />
-            </span>
-            <span className="bannerIcon">
-              <SiKubernetes />
-            </span>
+
+        {/* Second row of skills */}
+        <div className="flex gap-4">
+          <span className="bannerIcon">
+            <FaPython /> {/* Python for AI */}
+          </span>
+          <span className="bannerIcon">
+            <SiTensorflow /> {/* TensorFlow for AI */}
+          </span>
+          <span className="bannerIcon">
+            <SiDocker /> {/* Docker for DevSecOps */}
+          </span>
+          <span className="bannerIcon">
+            <SiKubernetes /> {/* Kubernetes for DevSecOps */}
+          </span>
           </div>
         </div>
       </div>
