@@ -15,6 +15,7 @@ import testimonialOne from "./images/testmonial/testimonialOne.png";
 import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import testimonialThree from "./images/testmonial/testimonialThree.png";
 import testimonialFour from "./images/testmonial/testimonialFour.png";
+import testimonialFive from "./images/testmonial/testimonialFive.png";
 import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
 
@@ -36,6 +37,7 @@ export {
   testimonialTwo,
   testimonialThree,
   testimonialFour,
+  testimonialFive,
   quote,
   contactImg,
 };
