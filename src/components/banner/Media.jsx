@@ -43,18 +43,21 @@ const Media = () => {
             <span className="bannerIcon">
               <SiFigma />
             </span>
-            {/* Adding AI and DevSecOps related icons */}
+          </div>
+        </div>
+        <div>
+          <div className="flex gap-4">
             <span className="bannerIcon">
-              <FaPython /> {/* Python for AI */}
+              <FaPython />
             </span>
             <span className="bannerIcon">
-              <SiTensorflow /> {/* TensorFlow for AI */}
+              <SiTensorflow />
             </span>
             <span className="bannerIcon">
-              <SiDocker /> {/* Docker for DevSecOps */}
+              <SiDocker />
             </span>
             <span className="bannerIcon">
-              <SiKubernetes /> {/* Kubernetes for DevSecOps */}
+              <SiKubernetes />
             </span>
           </div>
         </div>
