@@ -27,39 +27,9 @@ const Projects = () => {
           src={projectTwo}
         />
         <ProjectsCard
-          title="Earth_FX Trading App"
-          des="Bootstrap | TradeView API"
-          src={projectThree}
-        />
-        <ProjectsCard
-          title="Nestec"
-          des="Agric farming app | Bootstrap | Webpack | MongoDB | Redis (cache-aside pattern)"
-          src={projectFour}
-        />
-        <ProjectsCard
-          title="Blog"
-          des="Next.js | Typescript | React DOM | Jest | Node.js"
-          src={projectTen}
-        />
-        <ProjectsCard
-          title="NeXtro"
-          des="MERN | Tailwind | Docker | Firebase | Jest | JWT | Cloudinary"
-          src={projectEleven}
-        />
-        <ProjectsCard
           title="AI Pantry Tracker"
           des="Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind"
           src={projectNine}
-        />
-        <ProjectsCard
-          title="AI Customer Support"
-          des="Next.js | React | Pinecone | LLMs RAG | Clerk | Stripe | Tailwind"
-          src={projectEight}
-        />
-        <ProjectsCard
-          title="AI Flashcards & Stripe"
-          des="Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind"
-          src={projectFive}
         />
         <ProjectsCard
           title="Rate My Professor AI Assistant"
@@ -67,14 +37,44 @@ const Projects = () => {
           src={projectSix}
         />
         <ProjectsCard
-          title="Personal Website"
-          des="HTML5 | JS |SCSS | DNS"
-          src={projectFive}
-        />
-        <ProjectsCard
           title="Recalla"
           des="Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind"
           src={projectSeven}
+        />
+        <ProjectsCard
+          title="Nestec"
+          des="Agric farming app | Bootstrap | Webpack | MongoDB | Redis (cache-aside pattern)"
+          src={projectFour}
+        />
+        <ProjectsCard
+          title="NeXtro"
+          des="MERN | Tailwind | Docker | Firebase | Jest | JWT | Cloudinary"
+          src={projectEleven}
+        />
+        <ProjectsCard
+          title="AI Customer Support"
+          des="Next.js | React | Pinecone | LLMs RAG | Clerk | Stripe | Tailwind"
+          src={projectEight}
+        />
+        <ProjectsCard
+          title="Earth_FX Trading App"
+          des="Bootstrap | TradeView API"
+          src={projectThree}
+        />
+        <ProjectsCard
+          title="Blog"
+          des="Next.js | Typescript | React DOM | Jest | Node.js"
+          src={projectTen}
+        />
+        <ProjectsCard
+          title="AI Flashcards & Stripe"
+          des="Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind"
+          src={projectFive}
+        />
+        <ProjectsCard
+          title="Personal Website"
+          des="HTML5 | JS |SCSS | DNS"
+          src={projectFive}
         />
       </div>
     </section>
