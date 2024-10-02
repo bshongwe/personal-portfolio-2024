@@ -40,6 +40,8 @@ const Testimonial = () => {
        slidesToScroll: 1,
        nextArrow:<SampleNextArrow />,
        prevArrow:<SamplePrevArrow />,
+       autoplay: true, // Enable autoplay
+       autoplaySpeed: 3000, // Time each slide is displayed (in milliseconds)
        beforeChange: (prev, next) => {
          setDocActive(next);
        },
