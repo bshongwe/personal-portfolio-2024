@@ -89,13 +89,13 @@ const Experience = () => {
             title="DevSecOps Engineer"
             subTitle="KalKey"
             result="2024"
-            des="AWS | Terraform | GitLab | GitHub | Automated CI/CD | IaC | IAM | SDLC | Pen Testing"
+            des="AWS | Terraform | GitLab |  GitHub | K8s | Docker | Jenkins | GCP | Automated CI/CD | IaC | IAM | SDLC | Pen Testing"
           />
           <ResumeCard
             title="DevOps Engineer"
             subTitle="KalKey"
             result="2024"
-            des="AWS | GitLab | GitLab | K8s | Docker | AWS | Ansible | Terraform | Jenkins | GCP"
+            des="AWS | GitLab | GitHub | K8s | Docker | Ansible | Terraform | Jenkins | GCP | Automated CI/CD | SDLC"
           />
           <ResumeCard
             title="Ai Software Engineering Fellow"

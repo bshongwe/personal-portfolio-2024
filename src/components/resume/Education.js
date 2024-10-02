@@ -20,13 +20,13 @@ const Education = () => {
             title="Complete DevOps with Linux, Kubernetes & AWS"
             subTitle="13 September 2024 - Present"
             result="KalKey"
-            des="On-job & job-ready training"
+            des=" AWS | Linux | GitHub | GitLab | Terraform | Jenkins | Ansible | Docker | K8s | GCP | GNS3 | OWASP Juice Shop | Cisco Packet Tracer"
           />
           <ResumeCard
             title="ALX Applied Ai"
             subTitle="Septmeber 2024 - Present"
             result="ALX Africa"
-            des="Ai | RAG"
+            des="Ai | RAG | Colab"
           />
           <ResumeCard
             title="DevSecOps Learning Path"
