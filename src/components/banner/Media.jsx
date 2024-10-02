@@ -10,8 +10,8 @@ const Media = () => {
           </h2>
           <div className="flex gap-4">
             <span className="bannerIcon">
-              <FaFacebookF />
               <a href="https://www.facebook.com/shongwe.bhekizwe" target="_blank" rel="noopener noreferrer">
+                <FaFacebookF />
             </span>
             <span className="bannerIcon">
               <FaTwitter />
