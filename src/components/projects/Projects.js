@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree, projectFour, projectFive, projectSix, projectSeven, projectEight, projectNine, projectTen, projectEleven } from "../../assets/index";
+import { projectOne, projectTwo, projectThree, projectFour, projectFive, projectSix, projectSeven, projectEight, projectNine, projectTen, projectEleven, projectTwelve } from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -53,7 +53,7 @@ const Projects = () => {
         />
         <ProjectsCard
           title="AI Customer Support"
-          des="Next.js | React | Pinecone | LLMs RAG | Clerk | Stripe | Tailwind"
+          des="Next.js | React | Pinecone | LLMs | RAG | Clerk | Stripe | Tailwind"
           src={projectEight}
         />
         <ProjectsCard
@@ -67,9 +67,9 @@ const Projects = () => {
           src={projectTen}
         />
         <ProjectsCard
-          title="AI Flashcards & Stripe"
-          des="Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind"
-          src={projectFive}
+          title="NesBank"
+          des="Next.js | React | Clerk | Tailwind | still under development"
+          src={projectTwelve}
         />
         <ProjectsCard
           title="Personal Website"
