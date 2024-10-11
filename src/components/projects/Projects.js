@@ -22,6 +22,11 @@ const Projects = () => {
           src={projectOne}
         />
         <ProjectsCard
+          title="NesBank"
+          des="Next.js | React | Tailwind | still under development"
+          src={projectTwelve}
+        />
+        <ProjectsCard
           title="Netflix Clone"
           des="Next.js | Material UI | React Router DOM | React Slick | Framer Motion | Video.js"
           src={projectTwo}
@@ -65,11 +70,6 @@ const Projects = () => {
           title="Blog"
           des="Next.js | Typescript | React DOM | Jest | Node.js"
           src={projectTen}
-        />
-        <ProjectsCard
-          title="NesBank"
-          des="Next.js | React | Clerk | Tailwind | still under development"
-          src={projectTwelve}
         />
         <ProjectsCard
           title="Personal Website"
