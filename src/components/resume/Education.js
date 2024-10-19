@@ -20,7 +20,7 @@ const Education = () => {
             title="Complete DevOps with Linux, Kubernetes & AWS"
             subTitle="13 September 2024 - Present"
             result="KalKey"
-            des="Job-ready/ on=job training"
+            des="Job-ready/ on-job training"
           />
           <ResumeCard
             title="Software Engineering Resident"
