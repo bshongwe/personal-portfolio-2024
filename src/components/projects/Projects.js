@@ -18,62 +18,62 @@ const Projects = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
           title="Bunny-Ai"
-          des="Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind"
+          des="Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind (under development)"
           src={projectOne}
         />
         <ProjectsCard
           title="NesBank"
-          des="Next.js | React | Tailwind | still under development"
+          des="Fintec SaaS: Next.js | React | Tailwind | (under development)"
           src={projectTwelve}
         />
         <ProjectsCard
           title="Netflix Clone"
-          des="Next.js | Material UI | React Router DOM | React Slick | Framer Motion | Video.js"
+          des="Video Streaming SaaS: Next.js | Material UI | React Router DOM | React Slick | Framer Motion | Video.js"
           src={projectTwo}
         />
         <ProjectsCard
           title="AI Pantry Tracker"
-          des="Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind"
+          des="Inventory SaaS: Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind"
           src={projectNine}
         />
         <ProjectsCard
           title="Rate My Professor AI Assistant"
-          des="Next.js | React | Pinecone | LLMs | RAG | Clerk | Stripe | Tailwind"
+          des="Academic Advisor SaaS: Next.js | React | Pinecone | LLMs | RAG | Clerk | Stripe | Tailwind"
           src={projectSix}
         />
         <ProjectsCard
           title="Recalla"
-          des="Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind"
+          des="Flashcard SaaS: Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind"
           src={projectSeven}
         />
         <ProjectsCard
           title="Nestec"
-          des="Agric farming app | Bootstrap | Webpack | MongoDB | Redis (cache-aside pattern)"
+          des="Agric farming app: Bootstrap | Webpack | MongoDB | Redis (cache-aside pattern)"
           src={projectFour}
         />
         <ProjectsCard
           title="NeXtro"
-          des="MERN | Tailwind | Docker | Firebase | Jest | JWT | Cloudinary"
+          des="eCommerce SaaS: MERN | Tailwind | Docker | Firebase | Jest | JWT | Cloudinary"
           src={projectEleven}
         />
         <ProjectsCard
           title="AI Customer Support"
-          des="Next.js | React | Pinecone | LLMs | RAG | Clerk | Stripe | Tailwind"
+          des="Retail SaaS: Next.js | React | Pinecone | LLMs | RAG | Clerk | Stripe | Tailwind"
           src={projectEight}
         />
         <ProjectsCard
           title="Earth_FX Trading App"
-          des="Bootstrap | TradeView API"
+          des="Trading App: Bootstrap | TradeView API"
           src={projectThree}
         />
         <ProjectsCard
           title="Blog"
-          des="Next.js | Typescript | React DOM | Jest | Node.js"
+          des="Blog App: Next.js | Typescript | React DOM | Jest | Node.js"
           src={projectTen}
         />
         <ProjectsCard
           title="Personal Website"
-          des="HTML5 | JS |SCSS | DNS"
+          des="Portfolio website: HTML5 | JS |SCSS | DNS"
           src={projectFive}
         />
       </div>
