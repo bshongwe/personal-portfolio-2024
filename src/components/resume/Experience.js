@@ -18,7 +18,7 @@ const Experience = () => {
           <ResumeCard
             title="Software Engineer"
             subTitle="Commonwealth Bank"
-            result="2024 - Present"
+            result="2024"
             des="Basic, advanced & senior development skills."
           />
           <ResumeCard
@@ -44,7 +44,7 @@ const Experience = () => {
           <ResumeCard
             title="Tutor"
             subTitle="ALX Africa"
-            result="September 2024"
+            result="Sept 2024 - present"
             des="to be filled later."
           />
           <ResumeCard
@@ -88,43 +88,49 @@ const Experience = () => {
           <ResumeCard
             title="DevSecOps Engineer"
             subTitle="KalKey"
-            result="2024"
+            result="Sept 2024"
             des="AWS | Terraform | GitLab |  GitHub | K8s | Docker | Jenkins | GCP | Automated CI/CD | IaC | IAM | SDLC | Pen Testing"
           />
           <ResumeCard
             title="DevOps Engineer"
             subTitle="KalKey"
-            result="2024"
+            result="Apr - Jul 2024"
             des="AWS | GitLab | GitHub | K8s | Docker | Ansible | Terraform | Jenkins | GCP | Automated CI/CD | SDLC"
+          />
+          <ResumeCard
+            title="Ai Software Engineering Resident"
+            subTitle="Headstarter"
+            result="Sept 2024 - Present"
+            des="14+ ML, Ai-engineering and full-stack SaaS"
           />
           <ResumeCard
             title="Ai Software Engineering Fellow"
             subTitle="Headstarter"
-            result="2024"
-            des="Git | Firebase | Next.js | Material UI | OpenAI | Clerk | CI/CD | Stripe"
+            result="Jul - Sep 2024"
+            des="6 Ai-driven SaaS, with $500 average and 300 user average."
           />
           <ResumeCard
             title="Python Dev"
             subTitle="OctaNet Pvt. Ltd."
-            result="2024"
-            des="Full-stack | Python | Backend | Unittests"
+            result="Mar - Apr 2024"
+            des="Full-stack | Python | Backend | TDD | Unittests"
           />
           <ResumeCard
             title="Web Dev"
             subTitle="OctaNet Pvt. Ltd."
-            result="2024"
-            des="Full-stack | Java | Frontend"
+            result="Jan - Mar 2024"
+            des="Full-stack | Java | Frontend | GITA Autonomous College"
           />
           <ResumeCard
             title="Web Dev"
             subTitle="Code Alpha"
-            result="2023 - 2024"
+            result="Dec 2023 - Jan 2024"
             des="VS Code | Full-stack | JS | Typescript | MERN"
           />
           <ResumeCard
             title="App Dev"
             subTitle="Code Alpha"
-            result="2023 -2023"
+            result="Oct 2023 - Dec 2023"
             des="Android Studio | Swift | Kotlin"
           />
           <ResumeCard
