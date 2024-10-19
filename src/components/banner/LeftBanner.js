@@ -26,11 +26,10 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-          I'm a result-driven, passionate problem-solver. A certified software
-          engineer (full-stack, DevSecOps, CI-CD, Cloud & Ai enthusiast). I
-          deliver SaaS, IaaS and PaaS solutions and am mentored by certified
-          Bloomberg, Amazon & Capital One top software engineers.
-          Let's connect...
+          I'm a results-driven, passionate problem-solver. A certified software
+          engineer (DevSecOps, Cloud & Ai enthusiast). I deliver SaaS, IaaS and
+          PaaS solutions and am mentored by certified Bloomberg, Amazon, Tesla,
+          Figma, Citadel & Capital One top software engineers. Let's connect...
         </p>
       </div>
      {/* Media */}
