@@ -23,6 +23,12 @@ const Education = () => {
             des="Job-ready/ on=job training"
           />
           <ResumeCard
+            title="Software Engineering Resident"
+            subTitle="September 2024 - Present"
+            result="Headstarter"
+            des="Artificial Intelligence Accelerator Programme"
+          />
+          <ResumeCard
             title="ALX Applied Ai"
             subTitle="September 2024 - Present"
             result="ALX Africa"

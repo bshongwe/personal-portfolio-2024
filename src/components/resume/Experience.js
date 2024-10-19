@@ -60,16 +60,16 @@ const Experience = () => {
             des="Reviewing of apps built by students in subsequent cohorts. Also offered mentoring for some."
           />
           <ResumeCard
-            title="Open Source Contributer"
-            subTitle="Microsoft Build"
-            result="2024"
-            des="Participating in the Open Source project contribution"
-          />
-          <ResumeCard
             title="Software Beta-tester"
             subTitle="ALX Africa"
             result="2024"
             des="Participating in the development of Vini Vidi Vici"
+          />
+          <ResumeCard
+            title="Open Source Contributer"
+            subTitle="Microsoft Build"
+            result="2024"
+            des="Participating in the Open Source project contribution"
           />
           <ResumeCard
             title="Access Control Officer"
