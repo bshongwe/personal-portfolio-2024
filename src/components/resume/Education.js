@@ -17,7 +17,7 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Complete DevOps with Linux, Kubernetes & AWS"
+            title="DevOps with Linux, Kubernetes & AWS"
             subTitle="13 September 2024 - Present"
             result="KalKey"
             des="Job-ready/ on-job training"
@@ -42,14 +42,8 @@ const Education = () => {
           />
           <ResumeCard
             title="Software Engineering"
-            subTitle="January 2023 - Present"
-            result="freeCodeCamp"
-            des="Self-paced certifications"
-          />
-          <ResumeCard
-            title="Software Engineering"
             subTitle="July 2024 - Present"
-            result="AWS educate"
+            result="AWS educate | AWS Skillbuilder"
             des="Self-paced certifications & badges"
           />
           <ResumeCard
@@ -59,16 +53,16 @@ const Education = () => {
             des="Artificial Intelligence Fellowship"
           />
           <ResumeCard
-            title="Software Engineering"
-            subTitle="April 22, 2023 - July 27, 2024"
+            title="Software Engineering - Full Stack (with Backend Specialization)"
+            subTitle="June 17, 2023 - Aprl 19, 2024 | April 22, 2023 - July 27, 2024"
             result="ALX Africa"
-            des="certified: Backend (Specialization)"
+            des="certified"
           />
           <ResumeCard
             title="Software Engineering"
-            subTitle="June 17, 2023 - Aprl 19, 2024"
-            result="ALX Africa"
-            des="verified: Full Stack (Foundations)"
+            subTitle="January 2023 - Aug 2023"
+            result="freeCodeCamp"
+            des="Self-paced certifications"
           />
           <ResumeCard
             title="Bachelor of Science Degree in Agronomy"
