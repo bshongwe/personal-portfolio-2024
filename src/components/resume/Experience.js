@@ -111,25 +111,25 @@ const Experience = () => {
           />
           <ResumeCard
             title="Full Stack Python Dev"
-            subTitle="KalKey | OctaNet Pvt. Ltd. consult"
+            subTitle="KalKey | OctaNet Pvt. Ltd. (consultant)"
             result="Mar 2024 - Apr 2024"
             des="Python | Backend | TDD | Unittests"
           />
           <ResumeCard
             title="Full Stack Web Dev"
-            subTitle="KalKey | OctaNet Pvt. Ltd. consult"
+            subTitle="KalKey | OctaNet Pvt. Ltd. (consultant)"
             result="Dec 2023 - Mar 2024"
             des="GITA Autonomous College MERN-Stack Hackathon participant, used DynamoDB to improve data retrieval and scalability of 15%"
           />
           <ResumeCard
             title="App Dev"
-            subTitle="KalKey | OctaNet Pvt. Ltd. consult"
+            subTitle="KalKey | OctaNet Pvt. Ltd. (consultant)"
             result="Oct 2023 - Dec 2023"
             des="20% user engagement increase using 3rd-party APIs & RESTful API communication"
           />
           <ResumeCard
             title="Font-end Web Dev"
-            subTitle="KalKey | Upwork consult"
+            subTitle="KalKey | Upwork (consultant)"
             result="Apr 2022 - Oct 2023"
             des="40% SEO optimization increase, MVC design patterns for 25% user engagement and 30% page load increase (Docker, Git & AWS)"
           />

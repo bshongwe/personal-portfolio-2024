@@ -7,13 +7,13 @@ export const featuresData = [
   {
     id: 1,
     title: "Business Strategy",
-    des: "Let's build your business & your brand",
+    des: "Let me build your business & brand",
   },
   {
     id: 2,
     icon: <AiFillAppstore />,
     title: "App Development",
-    des: "Let's build multi-platform cutting edge apps",
+    des: "I can build multi-platform apps",
   },
   {
     id: 3,
@@ -25,18 +25,18 @@ export const featuresData = [
     id: 4,
     icon: <FaMobile />,
     title: "Mobile Development",
-    des: "Let's launch your mobile app",
+    des: "Let me build your mobile app",
   },
   {
     id: 5,
     icon: <SiAntdesign />,
     title: "UI/UX Design",
-    des: "Let's improve UI/UX whilst maintaining cross-platform stability",
+    des: "Let me build or improve your product's UI/UX",
   },
   {
     id: 6,
     icon: <FaGlobe />,
     title: "Hosting Websites",
-    des: "Let's launch your app in the cloud or webspace",
+    des: "Let me launch your app",
   },
 ];
