@@ -101,37 +101,37 @@ const Experience = () => {
             title="DevSecOps Engineer"
             subTitle="KalKey"
             result="Sept 2024 - Present"
-            des="AWS DynamoDB | AWS CloudFormation | Terraform | GitLab |  GitHub | K8s | Docker | Jenkins | GCP | Automated CI/CD | IaC | IAM | SDLC | Pen Testing"
+            des="IaC automated configuration reduced setup time by 30%"
           />
           <ResumeCard
             title="DevOps Engineer"
             subTitle="KalKey"
-            result="Apr 2024 - Jul 2024"
-            des="AWS | GitLab | GitHub | K8s | Docker | Ansible | Terraform | Jenkins | GCP | Automated CI/CD | SDLC"
+            result="Apr 2024 - Aug 2024"
+            des="Deployed data pipeline with serverless architechture for 25% deployment effeciency"
           />
           <ResumeCard
             title="Full Stack Python Dev"
-            subTitle="KalKey"
+            subTitle="KalKey | OctaNet Pvt. Ltd. consult"
             result="Mar 2024 - Apr 2024"
-            des="OctaNet Pvt. Ltd. Projects: Python | Backend | TDD | Unittests"
+            des="Python | Backend | TDD | Unittests"
           />
           <ResumeCard
             title="Full Stack Web Dev"
-            subTitle="KalKey"
+            subTitle="KalKey | OctaNet Pvt. Ltd. consult"
             result="Dec 2023 - Mar 2024"
-            des="OctaNet Pvt. Ltd. Projects: Full-stack | Java | Frontend | GITA Autonomous College"
+            des="GITA Autonomous College MERN-Stack Hackathon participant, used DynamoDB to improve data retrieval and scalability of 15%"
           />
           <ResumeCard
             title="App Dev"
-            subTitle="KalKey"
+            subTitle="KalKey | OctaNet Pvt. Ltd. consult"
             result="Oct 2023 - Dec 2023"
-            des="OctaNet Pvt. Ltd. Projects: Android Studio | Swift | Kotlin"
+            des="20% user engagement increase using 3rd-party APIs & RESTful API communication"
           />
           <ResumeCard
             title="Font-end Web Dev"
-            subTitle="Upwork"
+            subTitle="KalKey | Upwork consult"
             result="Apr 2022 - Oct 2023"
-            des="KalKey projects: Upwork | SEO optimization"
+            des="40% SEO optimization increase, MVC design patterns for 25% user engagement and 30% page load increase (Docker, Git & AWS)"
           />
         </div>
       </div>
