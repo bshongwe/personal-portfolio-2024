@@ -1,6 +1,7 @@
 import React,{useState} from 'react'
 import Title from '../layouts/Title';
 import ContactLeft from './ContactLeft';
+// import axios from 'axios';
 
 const Contact = () => {
   const [username, setUsername] = useState("");
@@ -12,9 +13,9 @@ const Contact = () => {
   const [successMsg, setSuccessMsg] = useState("");
 
   // ========== Email Validation start here ==============
-  const emailValidation = () => {
+  const emailValidation = (email) => {
     return String(email)
-      .toLocaleLowerCase()
+      .toLowerCase()
       .match(/^\w+([-]?\w+)*@\w+([-]?\w+)*(\.\w{2,3})+$/);
   };
   // ========== Email Validation end here ================
