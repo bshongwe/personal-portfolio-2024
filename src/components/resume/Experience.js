@@ -31,7 +31,7 @@ const Experience = () => {
             title="Ai Software Engineering Fellow"
             subTitle="Headstarter"
             result="Jul - Sep 2024"
-            des="Projects: 6 Ai-driven SaaS, with $500 average and 300 user average."
+            des="Projects: 6 Ai-driven SaaS, with $500 revenue average & +/-300 users."
           />
           <ResumeCard
             title="Technical Assistant"
