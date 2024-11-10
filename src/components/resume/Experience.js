@@ -9,62 +9,7 @@ const Experience = () => {
       animate={{ opacity: 1, transition: { duration: 0.5 } }}
       className="w-full flex flex-col lgl:flex-row gap-10 lgl:gap-20"
     >
-      <div>
-        <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4 items-center">
-          <p className="text-sm text-designColor tracking-[4px] text-center">2024 - 2024</p>
-          <h2 className="text-4xl font-bold text-center">Activities</h2>
-        </div>
-        <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
-          <ResumeCard
-            title="Tutor"
-            subTitle="ALX Africa"
-            result="Sept 2024 - present"
-            des="Mentoring & assisting students with portfolio project and the ALX Africa community platform & coursework."
-          />
-          <ResumeCard
-            title="Ai Software Engineering Resident"
-            subTitle="Headstarter"
-            result="Sept 2024 - Present"
-            des="Projects: 14+ ML, Ai-engineering and full-stack SaaS"
-          />
-          <ResumeCard
-            title="Ai Software Engineering Fellow"
-            subTitle="Headstarter"
-            result="Jul - Sep 2024"
-            des="Projects: 6 Ai-driven SaaS, with $500 revenue average & +/-300 users."
-          />
-          <ResumeCard
-            title="Technical Assistant"
-            subTitle="ALX Africa"
-            result="2024"
-            des="Mentoring students from other Cohorts with ALX Africa community related issues, as well as mentoring some."
-          />
-          <ResumeCard
-            title="Snr. Code Review Engineer"
-            subTitle="ALX Africa"
-            result="2024"
-            des="Reviewing of apps built by students in subsequent cohorts. Also offered mentoring for some."
-          />
-          <ResumeCard
-            title="Software Beta-tester"
-            subTitle="ALX Africa"
-            result="2024"
-            des="Participating in the development of Vini Vidi Vici"
-          />
-          <ResumeCard
-            title="Open Source Contributor"
-            subTitle="Microsoft Build"
-            result="2024"
-            des="Participating in the Open Source project contribution"
-          />
-          <ResumeCard
-            title="Access Control Officer"
-            subTitle="CAAF"
-            result="2024"
-            des="Participating in the CAAF24 event"
-          />
-        </div>
-      </div>
+      {/* Work section */}
       <div>
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4 items-center">
           <p className="text-sm text-designColor tracking-[4px] text-center">2023 - 2024</p>
@@ -121,6 +66,66 @@ const Experience = () => {
           />
         </div>
       </div>
+
+      {/* Activities section */}
+      <div>
+        <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4 items-center">
+          <p className="text-sm text-designColor tracking-[4px] text-center">2024 - 2024</p>
+          <h2 className="text-4xl font-bold text-center">Activities</h2>
+        </div>
+        <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+          <ResumeCard
+            title="Tutor"
+            subTitle="ALX Africa"
+            result="Sept 2024 - present"
+            des="Mentoring & assisting students with portfolio project and the ALX Africa community platform & coursework."
+          />
+          <ResumeCard
+            title="Ai Software Engineering Resident"
+            subTitle="Headstarter"
+            result="Sept 2024 - Present"
+            des="Projects: 14+ ML, Ai-engineering and full-stack SaaS"
+          />
+          <ResumeCard
+            title="Ai Software Engineering Fellow"
+            subTitle="Headstarter"
+            result="Jul - Sep 2024"
+            des="Projects: 6 Ai-driven SaaS, with $500 revenue average & +/-300 users."
+          />
+          <ResumeCard
+            title="Technical Assistant"
+            subTitle="ALX Africa"
+            result="2024"
+            des="Mentoring students from other Cohorts with ALX Africa community related issues, as well as mentoring some."
+          />
+          <ResumeCard
+            title="Snr. Code Review Engineer"
+            subTitle="ALX Africa"
+            result="2024"
+            des="Reviewing of apps built by students in subsequent cohorts. Also offered mentoring for some."
+          />
+          <ResumeCard
+            title="Software Beta-tester"
+            subTitle="ALX Africa"
+            result="2024"
+            des="Participating in the development of Vini Vidi Vici"
+          />
+          <ResumeCard
+            title="Open Source Contributor"
+            subTitle="Microsoft Build"
+            result="2024"
+            des="Participating in the Open Source project contribution"
+          />
+          <ResumeCard
+            title="Access Control Officer"
+            subTitle="CAAF"
+            result="2024"
+            des="Participating in the CAAF24 event"
+          />
+        </div>
+      </div>
+
+      {/* Simulations section */}
       <div>
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4 items-center">
           <p className="text-sm text-designColor tracking-[4px] text-center">2024 - 2024</p>
