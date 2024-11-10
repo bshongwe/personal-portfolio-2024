@@ -1,5 +1,5 @@
 import React from "react";
-import {motion} from "framer-motion"
+import { motion } from "framer-motion";
 import ResumeCard from "./ResumeCard";
 
 const Experience = () => {
@@ -10,11 +10,11 @@ const Experience = () => {
       className="w-full flex flex-col lgl:flex-row gap-10 lgl:gap-20"
     >
       <div>
-        <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2024 - 2024</p>
-          <h2 className="text-4xl font-bold">Activities</h2>
+        <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4 items-center">
+          <p className="text-sm text-designColor tracking-[4px] text-center">2024 - 2024</p>
+          <h2 className="text-4xl font-bold text-center">Activities</h2>
         </div>
-        <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Tutor"
             subTitle="ALX Africa"
@@ -52,7 +52,7 @@ const Experience = () => {
             des="Participating in the development of Vini Vidi Vici"
           />
           <ResumeCard
-            title="Open Source Contributer"
+            title="Open Source Contributor"
             subTitle="Microsoft Build"
             result="2024"
             des="Participating in the Open Source project contribution"
@@ -66,28 +66,28 @@ const Experience = () => {
         </div>
       </div>
       <div>
-        <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2023 - 2024</p>
-          <h2 className="text-4xl font-bold">Work</h2>
+        <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4 items-center">
+          <p className="text-sm text-designColor tracking-[4px] text-center">2023 - 2024</p>
+          <h2 className="text-4xl font-bold text-center">Work</h2>
         </div>
-        <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="DevSecOps Engineer I"
             subTitle="KalKey"
             result="Sept 2024 - Present"
-            des="DSA-41/42 Team:30% provisioning effeciency, 40% downtime reduction, 25% deployment effeciency & 40% response time"
+            des="DSA-41/42 Team:30% provisioning efficiency, 40% downtime reduction, 25% deployment efficiency & 40% response time"
           />
           <ResumeCard
             title="DevOps Engineer II"
             subTitle="KalKey"
             result="Jul 2024 - Sept 2024"
-            des="DSA-41 Team: 25% deployment effeciency, 30% downtime reduction, 20% response time & 30% provisioning effeciency"
+            des="DSA-41 Team: 25% deployment efficiency, 30% downtime reduction, 20% response time & 30% provisioning efficiency"
           />
           <ResumeCard
             title="DevOps Engineer I"
             subTitle="KalKey"
             result="Apr 2024 - Jul 2024"
-            des="30% configuration automation setup time reduction, IaC implementation for 25% deployment effeciency & 20% downtime reduction"
+            des="30% configuration automation setup time reduction, IaC implementation for 25% deployment efficiency & 20% downtime reduction"
           />
           <ResumeCard
             title="Full Stack Python Dev"
@@ -114,7 +114,7 @@ const Experience = () => {
             des="30% user engagement increase via 3rd-party APIs & RESTful API communication, reduced API latency by 15%, 35% deployment error reduction"
           />
           <ResumeCard
-            title="Font-end Web Dev"
+            title="Front-end Web Dev"
             subTitle="KalKey | Upwork (consultant)"
             result="Apr 2022 - Oct 2023"
             des="40% SEO optimization increase, MVC design patterns for 25% user engagement and 30% page load increase (Docker, Git & AWS)"
@@ -122,11 +122,11 @@ const Experience = () => {
         </div>
       </div>
       <div>
-        <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2024 - 2024</p>
-          <h2 className="text-4xl font-bold">Simulations</h2>
+        <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4 items-center">
+          <p className="text-sm text-designColor tracking-[4px] text-center">2024 - 2024</p>
+          <h2 className="text-4xl font-bold text-center">Simulations</h2>
         </div>
-        <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Software Engineer"
             subTitle="Commonwealth Bank"
@@ -147,7 +147,6 @@ const Experience = () => {
           />
         </div>
       </div>
-      
     </motion.div>
   );
 };
