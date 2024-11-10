@@ -1,7 +1,6 @@
-import React,{useState} from 'react'
+import React, { useState } from 'react';
 import Title from '../layouts/Title';
 import ContactLeft from './ContactLeft';
-// import axios from 'axios';
 
 const Contact = () => {
   const [username, setUsername] = useState("");
@@ -13,10 +12,10 @@ const Contact = () => {
   const [successMsg, setSuccessMsg] = useState("");
 
   // ========== Email Validation start here ==============
-  const emailValidation = (email) => {
+  const emailValidation = () => {
     return String(email)
       .toLowerCase()
-      .match(/^\w+([-]?\w+)*@\w+([-]?\w+)*(\.\w{2,3})+$/);
+      .match(/^\w+([.-]?\w+)*@\w+([.-]?\w+)*(\.\w{2,3})+$/);
   };
   // ========== Email Validation end here ================
 
@@ -61,11 +60,9 @@ const Contact = () => {
       }
     }
   };
+
   return (
-    <section
-      id="contact"
-      className="w-full py-20 border-b-[1px] border-b-black"
-    >
+    <section id="contact" className="w-full py-20 border-b-[1px] border-b-black">
       <div className="flex justify-center items-center text-center">
         <Title title="CONTACT" des="Contact Me" />
       </div>
@@ -93,8 +90,7 @@ const Contact = () => {
                     onChange={(e) => setUsername(e.target.value)}
                     value={username}
                     className={`${
-                      errMsg === "Username is required!" &&
-                      "outline-designColor"
+                      errMsg === "Username is required!" && "outline-designColor"
                     } contactInput`}
                     type="text"
                   />
@@ -107,8 +103,7 @@ const Contact = () => {
                     onChange={(e) => setPhoneNumber(e.target.value)}
                     value={phoneNumber}
                     className={`${
-                      errMsg === "Phone number is required!" &&
-                      "outline-designColor"
+                      errMsg === "Phone number is required!" && "outline-designColor"
                     } contactInput`}
                     type="text"
                   />
@@ -122,8 +117,7 @@ const Contact = () => {
                   onChange={(e) => setEmail(e.target.value)}
                   value={email}
                   className={`${
-                    errMsg === "Please give your Email!" &&
-                    "outline-designColor"
+                    errMsg === "Please give your Email!" && "outline-designColor"
                   } contactInput`}
                   type="email"
                 />
@@ -136,8 +130,7 @@ const Contact = () => {
                   onChange={(e) => setSubject(e.target.value)}
                   value={subject}
                   className={`${
-                    errMsg === "Plese give your Subject!" &&
-                    "outline-designColor"
+                    errMsg === "Please give your Subject!" && "outline-designColor"
                   } contactInput`}
                   type="text"
                 />
@@ -182,4 +175,4 @@ const Contact = () => {
   );
 }
 
-export default Contact
+export default Contact;
