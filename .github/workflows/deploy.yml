@@ -1,4 +1,4 @@
-name: Deploy
+name: Deploy to Vercel
 
 on:
   push:
@@ -13,10 +13,20 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Run deployment script
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '16'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Build Next.js app
+      run: npm run build
+
+    - name: Deploy to Vercel
       env:
-        EMAIL_USER: ${{ secrets.EMAIL_USER }}
-        EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+        VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
       run: |
-        echo "Running deployment script with EMAIL_USER=${{ secrets.EMAIL_USER }}"
-        # Your deployment commands here
+        npm install -g vercel
+        vercel --prod --token $VERCEL_TOKEN
