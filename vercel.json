@@ -7,7 +7,7 @@
     }
   ],
   "functions": {
-    "pages/api/**/*.js": {
+    "pages/api/contact.js": {
       "maxDuration": 30
     }
   }
