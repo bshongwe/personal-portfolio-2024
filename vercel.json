@@ -11,5 +11,10 @@
       "methods": ["GET", "POST"],
       "dest": "/api/contact"
     }
-  ]
+  ],
+  "functions": {
+    "api/**/*.js": {
+      "maxDuration": 30
+    }
+  }
 }
