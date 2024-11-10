@@ -31,7 +31,9 @@ export default async function handler(req, res) {
       console.error(error);
       res.status(500).json({ success: false, message: 'Failed to send message' }); // Error message response
     }
+  } else if (req.method === 'GET') {
+    res.status(200).json({ message: 'GET method is allowed' }); // Handle GET requests
   } else {
-    res.status(405).json({ message: 'Method not allowed' }); // Handles non-POST requests
+    res.status(405).json({ message: 'Method not allowed' }); // Handles other methods
   }
 }
