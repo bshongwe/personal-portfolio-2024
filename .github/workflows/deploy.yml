@@ -27,6 +27,8 @@ jobs:
     - name: Deploy to Vercel
       env:
         VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        EMAIL_USER: ${{ secrets.EMAIL_USER }}
+        EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
       run: |
         npm install -g vercel
         vercel --prod --token $VERCEL_TOKEN
