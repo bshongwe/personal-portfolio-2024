@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree, projectFour, projectFive, projectSix, projectSeven, projectEight, projectNine, projectTen, projectEleven, projectTwelve } from "../../assets/index";
+import { projectOne, projectTwo, projectThree, projectFour, projectFive, projectSix, projectSeven, projectEight, projectNine, projectTen, projectEleven, projectTwelve, projectThirteen } from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -16,6 +16,11 @@ const Projects = () => {
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
+        <ProjectsCard
+          title="Customer Churn"
+          des="Ai project: Python | Streamlit | Collab | Jupyter Notebook"
+          src={projectThirteen}
+        />
         <ProjectsCard
           title="Bunny-Ai"
           des="Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind (under development)"
