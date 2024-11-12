@@ -81,13 +81,13 @@ const Experience = () => {
             des="Mentoring & assisting students with portfolio project and the ALX Africa community platform & coursework."
           />
           <ResumeCard
-            title="Ai Software Engineering Resident"
+            title="Ai SWE Resident"
             subTitle="Headstarter"
             result="Sept 2024 - Present"
             des="Projects: 14+ ML, Ai-engineering and full-stack SaaS"
           />
           <ResumeCard
-            title="Ai Software Engineering Fellow"
+            title="Ai SWE Fellow"
             subTitle="Headstarter"
             result="Jul - Sep 2024"
             des="Projects: 6 Ai-driven SaaS, with $500 revenue average & +/-300 users."
@@ -108,13 +108,13 @@ const Experience = () => {
             title="Software Beta-tester"
             subTitle="ALX Africa"
             result="2024"
-            des="Participating in the development of Vini Vidi Vici"
+            des="Testing Vini Vidi Vici prototype"
           />
           <ResumeCard
             title="Open Source Contributor"
             subTitle="Microsoft Build"
             result="2024"
-            des="Participating in the Open Source project contribution"
+            des="Open Source project contributor"
           />
           <ResumeCard
             title="Access Control Officer"
@@ -133,19 +133,19 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Software Engineer"
+            title="SWE"
             subTitle="Commonwealth Bank"
             result="2024"
             des="Basic, advanced & senior development skills."
           />
           <ResumeCard
-            title="Software Engineer"
+            title="SWE"
             subTitle="JP Morgan Chase & Co."
             result="2024"
             des="Building & improving JPMC's banking web apps."
           />
           <ResumeCard
-            title="Software Engineer | Web Developer"
+            title="Web Dev."
             subTitle="Accenture"
             result="2024"
             des="Software engineering & agile web development."

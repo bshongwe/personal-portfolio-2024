@@ -124,7 +124,7 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        NeXtro & Nestec
+                        ALX Aluma Mata
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
                         via LinkedIn - Mar 4, 2024 (15:45 GMT+2)
@@ -173,7 +173,7 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Simple Shell (UNIX) & Monty
+                        ALX Alma Mata: Simple Shell (UNIX), PrintF & Monty
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
                         via LinkedIn - Jul 6, 2024 (09:45 GMT+2)
@@ -222,7 +222,7 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        ALX SE
+                        ALX Software Engineering Programme
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
                         via Twitter - Jul 7, 2024 (09:45 GMT+2)
@@ -272,7 +272,7 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        NeXtro
+                        NeXtro, LeetCode, Code Wars, APIs
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
                         via LinkedIn - Aug 6, 2024 (20:45 GMT+2)
@@ -287,7 +287,10 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Will fill the quotes later.
+                    Ernest showcases exceptional academic prowess coupled with an
+                    unwavering sense of responsibility and commitment, and has a
+                    comprehensive understanding of both frontend and backend
+                    technologies.
                   </p>
                 </div>
               </div>
@@ -334,7 +337,8 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Will fill the quotes later.
+                    Ernest exceptional problem-solving abilities and his
+                    commitment to mastering new technologies and concepts.
                   </p>
                 </div>
               </div>

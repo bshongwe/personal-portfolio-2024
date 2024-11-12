@@ -4,7 +4,7 @@ import Media from './Media';
 
 const LeftBanner = () => {
     const [text] = useTypewriter({
-      words: ["Full Stack Dev.", "Ai Fellow", "Ai Resident", "DevSecOps Dev.", "Backend Dev.", "Frontend Dev.", "Mobile App Dev."],
+      words: ["Full Stack Dev.", "SWE Ai Fellow", "SWE Ai Resident", "DevSecOps Dev.", "Backend Dev.", "Frontend Dev.", "Mobile App Dev."],
       loop: true,
       typeSpeed: 20,
       deleteSpeed: 10,
@@ -28,8 +28,8 @@ const LeftBanner = () => {
         <p className="text-base font-bodyFont leading-6 tracking-wide">
           I'm a results-driven, passionate problem-solver & certified software
           engineer. I deliver Ai-powered SaaS, IaaS & PaaS solutions, mentored
-          by certified Bloomberg, Google, Amazon, Tesla, Figma, Citadel &
-          Capital One top software engineers. Let's connect...
+          by certified Bloomberg, Google, AWS, Tesla, Figma, Citadel & Capital
+          One software engineers. Let's connect...
         </p>
       </div>
      {/* Media */}
