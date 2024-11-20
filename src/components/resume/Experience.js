@@ -12,15 +12,21 @@ const Experience = () => {
       {/* Work section */}
       <div>
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4 items-center">
-          <p className="text-sm text-designColor tracking-[4px] text-center">2023 - 2024</p>
+          <p className="text-sm text-designColor tracking-[4px] text-center">2022 - 2024</p>
           <h2 className="text-4xl font-bold text-center">Work</h2>
         </div>
         <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
+            title="Backend Engineer"
+            subTitle="Beqy.ai"
+            result="Nov. 2024 - Present"
+            des="Sandton Dev Team: API & database (vectors & SQL) development, 65% data processing time reduction & 95% data accuracy"
+          />
+          <ResumeCard
             title="DevSecOps Engineer I"
             subTitle="KalKey"
             result="Sept 2024 - Present"
-            des="DSA-41/42 Team:30% provisioning efficiency, 40% downtime reduction, 25% deployment efficiency & 40% response time"
+            des="DSA-41/42 Team: 30% provisioning efficiency, 40% downtime reduction, 25% deployment efficiency & 40% response time"
           />
           <ResumeCard
             title="DevOps Engineer II"
@@ -87,6 +93,12 @@ const Experience = () => {
             des="Projects: 14+ ML, Ai-engineering and full-stack SaaS"
           />
           <ResumeCard
+            title="Ai Skills participant"
+            subTitle="Microsoft Build"
+            result="2024"
+            des="Ai Skills badges"
+          />
+          <ResumeCard
             title="Ai SWE Fellow"
             subTitle="Headstarter"
             result="Jul - Sep 2024"
@@ -132,13 +144,7 @@ const Experience = () => {
           <h2 className="text-4xl font-bold text-center">Simulations</h2>
         </div>
         <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
-          <ResumeCard
-            title="SWE"
-            subTitle="Commonwealth Bank"
-            result="2024"
-            des="Basic, advanced & senior development skills."
-          />
-          <ResumeCard
+        <ResumeCard
             title="SWE"
             subTitle="JP Morgan Chase & Co."
             result="2024"
