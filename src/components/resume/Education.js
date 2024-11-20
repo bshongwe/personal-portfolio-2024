@@ -17,10 +17,10 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="DevOps Job-Ready Training"
+            title="DevOps Training Course"
             subTitle="13 September 2024 - Present"
             result="KalKey"
-            des="Linux, K8s and AWS: Terraform, Jenkins, Git, Docker, Ansible, Bash, CI/CD, IaC"
+            des="Linux, K8s and AWS: Terraform | Jenkins | Git | Docker | Ansible | Bash | CI/CD | IaC"
           />
           <ResumeCard
             title="Software Engineering Resident"
@@ -32,7 +32,7 @@ const Education = () => {
             title="ALX Applied Ai"
             subTitle="September 2024 - Present"
             result="ALX Africa"
-            des="Ai | RAG | Colab"
+            des="ALX Fellowship Programme: Ai | RAG | Colab"
           />
           <ResumeCard
             title="DevSecOps Learning Path"
