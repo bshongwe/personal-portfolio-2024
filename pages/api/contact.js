@@ -6,6 +6,11 @@ export default async function handler(req, res) {
     // Destructures fields from request body
     const { username, phoneNumber, email, subject, message } = req.body;
 
+    // Validation
+    if (!username || !email || !message) {
+      return res.status(400).json({ error: 'All fields are required' });
+    }
+
     // Configures SMTP transporter
     const transporter = nodemailer.createTransport({
       service: 'Gmail', // or any other email provider
