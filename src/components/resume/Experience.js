@@ -99,12 +99,6 @@ const Experience = () => {
             des="Ai Skills badges"
           />
           <ResumeCard
-            title="Ai SWE Fellow"
-            subTitle="Headstarter"
-            result="Jul - Sep 2024"
-            des="Projects: 6 Ai-driven SaaS, with $500 revenue average & +/-300 users."
-          />
-          <ResumeCard
             title="Technical Assistant"
             subTitle="ALX Africa"
             result="2024"
@@ -115,12 +109,6 @@ const Experience = () => {
             subTitle="ALX Africa"
             result="2024"
             des="Reviewing of apps built by students in subsequent cohorts. Also offered mentoring for some."
-          />
-          <ResumeCard
-            title="Software Beta-tester"
-            subTitle="ALX Africa"
-            result="2024"
-            des="Testing Vini Vidi Vici prototype"
           />
           <ResumeCard
             title="Open Source Contributor"
