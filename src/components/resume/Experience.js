@@ -84,7 +84,7 @@ const Experience = () => {
             title="Tutor"
             subTitle="ALX Africa"
             result="Sept 2024 - present"
-            des="Mentoring & assisting students with portfolio project and the ALX Africa community platform & coursework."
+            des="Mentoring & assisting students with portfolio projects & ALX Africa community platform."
           />
           <ResumeCard
             title="Ai SWE Resident"
@@ -136,7 +136,7 @@ const Experience = () => {
             title="SWE"
             subTitle="JP Morgan Chase & Co."
             result="2024"
-            des="Building & improving JPMC's banking web apps."
+            des="Building & improving JPMC's banking web apps using libraries such as JPMC's Perspective library."
           />
           <ResumeCard
             title="Web Dev."
