@@ -19,6 +19,10 @@ import testimonialThree from "./images/testmonial/testimonialThree.png";
 import testimonialFour from "./images/testmonial/testimonialFour.png";
 import testimonialFive from "./images/testmonial/testimonialFive.png";
 import testimonialSix from "./images/testmonial/testimonialSix.png";
+import testimonialSeven from "./images/testmonial/testimonialSeven.png";
+import testimonialEight from "./images/testmonial/testimonialEight.png";
+import testimonialNine from "./images/testmonial/testimonialNine.png";
+import testimonialTen from "./images/testmonial/testimonialTen.png";
 import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
 
@@ -44,6 +48,10 @@ export {
   testimonialFour,
   testimonialFive,
   testimonialSix,
+  testimonialSeven,
+  testimonialEight,
+  testimonialNine,
+  testimonialTen,
   quote,
   contactImg,
 };
