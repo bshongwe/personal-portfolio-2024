@@ -222,7 +222,7 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Programme & Community Specialist
+                        ALX Staff Member, Programme & Community Specialist
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
                         via Twitter - Jul 7, 2024 (09:45 GMT+2)
@@ -322,7 +322,7 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Certified Software Engineer, PWAs Expert
+                        Certified Software Engineer, PWAs (Progressive Web Applications) Expert
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
                         via LinkedIn - Jul 6, 2024 (16:05 GMT+2)
@@ -468,7 +468,7 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Certified Software Engineer
+                        Certified Software Engineer (Frontend Specialist)
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
                         via LinkedIn - Aug 16, 2024 (12:18 GMT+2)
