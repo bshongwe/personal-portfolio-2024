@@ -1,5 +1,11 @@
 # Portfolio Website 🌐
 
+![Visits Badge](https://badges.pufler.dev/visits/bshongwe/personal-portfolio-2024)
+![GitHub Repo Stars](https://img.shields.io/github/stars/bshongwe/personal-portfolio-2024?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/bshongwe/personal-portfolio-2024?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/bshongwe/personal-portfolio-2024)
+![GitHub License](https://img.shields.io/github/license/bshongwe/personal-portfolio-2024)
+
 Welcome to my personal **Portfolio Website**, built with **React** and styled with **Tailwind CSS**. This project showcases my skills, projects, and experiences as a developer. It includes smooth animations, responsive design, and dynamic components to provide an engaging user experience.
 
 ## 🚀 Project Setup
@@ -62,13 +68,18 @@ portfolio/
 - **Smooth Scrolling**: Easy navigation between sections using **React Scroll**.
 
 ## 🛠️ Built With
+## 🛠️ Built With
 
-- [React](https://reactjs.org/) - JavaScript library for building user interfaces
-- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
-- [Framer Motion](https://www.framer.com/motion/) - Motion library for React
-- [React Icons](https://react-icons.github.io/react-icons/) - Collection of icons for React
-- [React Slick](https://react-slick.neostack.com/) - Carousel component for React
-- [Nodemailer](https://nodemailer.com/) - Email sending library
+| Technology           | Description                                                    | Badge                                                      |
+|----------------------|----------------------------------------------------------------|------------------------------------------------------------|
+| [React](https://reactjs.org/)    | JavaScript library for building user interfaces              | ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework                                  | ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| [Framer Motion](https://www.framer.com/motion/) | Motion library for React                                    | ![Framer Motion Badge](https://img.shields.io/badge/Framer_Motion-1F2937?style=for-the-badge&logo=framer&logoColor=white) |
+| [React Icons](https://react-icons.github.io/react-icons/) | Collection of icons for React                              | ![React Icons Badge](https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| [React Slick](https://react-slick.neostack.com/) | Carousel component for React                               | ![React Slick Badge](https://img.shields.io/badge/React_Slick-121212?style=for-the-badge&logo=react&logoColor=white) |
+| [Nodemailer](https://nodemailer.com/) | Email sending library                                       | ![Nodemailer Badge](https://img.shields.io/badge/Nodemailer-0041C2?style=for-the-badge&logo=nodemailer&logoColor=white) |
+
+
 
 ## 📦 Available Scripts
 
