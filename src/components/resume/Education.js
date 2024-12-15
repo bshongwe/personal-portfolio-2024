@@ -17,12 +17,6 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="DevOps Training Course"
-            subTitle="13 September 2024 - Present"
-            result="KalKey"
-            des="Linux, K8s and AWS: Terraform | Jenkins | Git | Docker | Ansible | Bash | CI/CD | IaC"
-          />
-          <ResumeCard
             title="Software Engineering Resident"
             subTitle="September 2024 - Present"
             result="Headstarter"
@@ -35,16 +29,22 @@ const Education = () => {
             des="ALX Fellowship Programme: Ai | RAG | Colab"
           />
           <ResumeCard
+            title="Software Engineering"
+            subTitle="July 2024 - Present"
+            result="AWS educate | AWS Skillbuilder"
+            des="Self-paced certifications & badges"
+          />
+          <ResumeCard
             title="DevSecOps Learning Path"
             subTitle="September 2024 - Present"
             result="Google Cloud Skills Boost"
             des="Hands-on Labs & Coursework Assessments"
           />
           <ResumeCard
-            title="Software Engineering"
-            subTitle="July 2024 - Present"
-            result="AWS educate | AWS Skillbuilder"
-            des="Self-paced certifications & badges"
+            title="DevOps Training Course"
+            subTitle="13 September 2024 - 09 December 2024"
+            result="KalKey"
+            des="Linux, K8s and AWS: Terraform | Jenkins | Git | Docker | Ansible | Bash | CI/CD | IaC"
           />
           <ResumeCard
             title="Software Engineering Fellowship"
