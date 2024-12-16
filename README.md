@@ -16,6 +16,7 @@ Ensure you have the following installed on your system:
 
 - **Node.js** (v14 or higher)
 - **npm** or **yarn**
+- Run `npm install next-sitemap` to activate the sitemap robots and the configs
 
 ### Installation
 
