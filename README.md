@@ -68,7 +68,7 @@ portfolio/
 - **Carousel and Slider**: Built with **React Slick** for showcasing projects and images.
 - **Smooth Scrolling**: Easy navigation between sections using **React Scroll**.
 
-## 🛠️ Built With
+
 ## 🛠️ Built With
 
 | Technology           | Description                                                    | Badge                                                      |
@@ -101,7 +101,8 @@ In the project directory, you can run:
 
 Feel free to reach out if you'd like to collaborate or have any questions!
 
-- **Email**: [My email](mailto:shongwe.bhekizwe@yahoo.com)
+- **Personal Email**: [My email](mailto:shongwe.bhekizwe@yahoo.com)
+- **Work Email**: [My email](mailto:ernest@beqy.co.za)
 - **LinkedIn**: [My LinkedIn Profile](https://linkedin.com/in/ernest-bhekizwe)
 
 ---
