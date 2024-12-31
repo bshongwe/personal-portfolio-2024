@@ -42,31 +42,31 @@ const Experience = () => {
           />
           <ResumeCard
             title="Full Stack Python Dev"
-            subTitle="KalKey | OctaNet Pvt. Ltd. (consultant)"
+            subTitle="KalKey (consultant)"
             result="Mar 2024 - Apr 2024"
             des="Backend focus | 20% bug reduction, 15% server response time reduction, 30% UIUX rating increase & 25% user engagement increase"
           />
           <ResumeCard
             title="Full Stack Web Dev II"
-            subTitle="KalKey | OctaNet Pvt. Ltd. (consultant)"
+            subTitle="KalKey (consultant)"
             result="Jan 2024 - Mar 2024"
             des="GITA Autonomous College MERN-Stack Hackathon participant, delivered 12+ projects with 99.9% uptime, mentored 5 interns"
           />
           <ResumeCard
             title="Full Stack Web Dev I"
-            subTitle="KalKey | OctaNet Pvt. Ltd. (consultant)"
+            subTitle="KalKey (consultant)"
             result="Dec 2023 - Jan 2024"
             des="30% page load increase to handle 50,000+ active users, 25% deployment via automated CI/CD pipeline, LLM & RAG integration"
           />
           <ResumeCard
             title="App Dev"
-            subTitle="KalKey | OctaNet Pvt. Ltd. (consultant)"
+            subTitle="KalKey (internship)"
             result="Oct 2023 - Dec 2023"
             des="30% user engagement increase via 3rd-party APIs & RESTful API communication, reduced API latency by 15%, 35% deployment error reduction"
           />
           <ResumeCard
             title="Front-end Web Dev"
-            subTitle="KalKey | Upwork (consultant)"
+            subTitle="KalKey (internship)"
             result="Apr 2022 - Oct 2023"
             des="40% SEO optimization increase, MVC design patterns for 25% user engagement and 30% page load increase (Docker, Git & AWS)"
           />
