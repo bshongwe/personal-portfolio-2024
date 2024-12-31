@@ -17,10 +17,10 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Software Engineering Resident"
-            subTitle="September 2024 - Present"
-            result="Headstarter"
-            des="Artificial Intelligence Accelerator Programme"
+            title="CyberOps Associate"
+            subTitle="January 2025 - Present"
+            result="Cisco Networking Academy"
+            des="SecOps | SOC | Cybersecurity | Forensics"
           />
           <ResumeCard
             title="ALX Applied Ai"
@@ -29,10 +29,22 @@ const Education = () => {
             des="ALX Fellowship Programme: Ai | RAG | Colab"
           />
           <ResumeCard
+            title="Software Engineering Resident"
+            subTitle="September 2024 - Present"
+            result="Headstarter"
+            des="Artificial Intelligence Accelerator Programme"
+          />
+          <ResumeCard
             title="Software Engineering"
             subTitle="July 2024 - Present"
             result="AWS educate | AWS Skillbuilder"
             des="Self-paced certifications & badges"
+          />
+          <ResumeCard
+            title="Full Stack web Development certification"
+            subTitle="January 2023 - Present"
+            result="freeCodeCamp"
+            des="Full Stack | Backend | Frontend | Ai/ML"
           />
           <ResumeCard
             title="DevSecOps Learning Path"
