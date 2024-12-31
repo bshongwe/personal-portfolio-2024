@@ -81,10 +81,52 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
+            title="AWS Educate Web Builder"
+            subTitle="Dec. 2024"
+            result="AWS"
+            des="AWS | Cloud | IaaC | Web Apps"
+          />
+          <ResumeCard
+            title="DevOps Essentials"
+            subTitle="Dec. 2024"
+            result="Google"
+            des="DevOps"
+          />
+          <ResumeCard
+            title="AWS Educate Machine Learning - DeepRacer"
+            subTitle="Dec. 2024"
+            result="AWS"
+            des="AWS | ML"
+          />
+          <ResumeCard
+            title="AWS Educate Machine Learning Foundations"
+            subTitle="Dec. 2024"
+            result="AWS"
+            des="AWS | ML"
+          />
+          <ResumeCard
+            title="AWS Educate Getting Started with Security"
+            subTitle="Dec. 2024"
+            result="AWS"
+            des="AWS | Cloud | DevSecOps"
+          />
+          <ResumeCard
+            title="AWS Educate Getting Started with Serverless"
+            subTitle="Dec. 2024"
+            result="AWS"
+            des="AWS | Cloud | Serverless Computing"
+          />
+          <ResumeCard
             title="AWS Educate Introduction to Generative Ai"
             subTitle="Nov. 2024"
             result="AWS"
-            des="AWS"
+            des="AWS | GenAi | cloud | Ai/ML"
+          />
+          <ResumeCard
+            title="Agile Project Management"
+            subTitle="Dec. 2024"
+            result="HP Life | HP Foundation"
+            des="Scrum | Kanban | Agile"
           />
           <ResumeCard
             title="AWS Educate Introduction to Cloud 101"
@@ -108,19 +150,19 @@ const Education = () => {
             title="AWS Knowlegde: Cloud Essentials"
             subTitle="2024"
             result="AWS"
-            des="AWS"
+            des="AWS | Cloud | Compute | Databases | Networking | Security"
           />
           <ResumeCard
             title="AWS Knowlegde: Serverless"
             subTitle="2024"
             result="AWS"
-            des="AWS"
+            des="AWS | API Gateway | Cloud | Lambda | Serverless Computing"
           />
           <ResumeCard
             title="AWS Knowlegde: Architecting"
             subTitle="2024"
             result="AWS"
-            des="AWS"
+            des="AWS | Cloud | Compute | AWS Core Services | AWS Database | Networking | Storage"
           />
           <ResumeCard
             title="AWS Knowlegde: AWS for Games: Cloud Game Development"
@@ -132,7 +174,7 @@ const Education = () => {
             title="ALX Software Engineering Programme"
             subTitle="2024"
             result="ALX Africa"
-            des="Full-stack | Backend"
+            des="Full-stack | Backend | CI/CD | REST APIs | JS | Python | C | TS | Unittesting | MySQL | NoSQL | SQL"
           />
           <ResumeCard
             title="Foundational C# with Microsoft Certification"
