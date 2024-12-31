@@ -11,7 +11,7 @@ const Skills = () => {
       <div className="w-full lgl:w-1/2">
         <div className="py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px] uppercase">
-            Features
+            Skills
           </p>
           <h2 className="text-3xl md:text-4xl font-bold">App Dev Stack</h2>
         </div>
@@ -87,7 +87,7 @@ const Skills = () => {
       <div className="w-full lgl:w-1/2">
         <div className="py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px] uppercase">
-            Features
+            Skills
           </p>
           <h2 className="text-3xl md:text-4xl font-bold">Web Dev (Frontend)</h2>
         </div>
@@ -163,7 +163,7 @@ const Skills = () => {
       <div className="w-full lgl:w-1/2">
         <div className="py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px] uppercase">
-            Features
+            Skills
           </p>
           <h2 className="text-3xl md:text-4xl font-bold">Dev Tools</h2>
         </div>
@@ -239,7 +239,7 @@ const Skills = () => {
       <div className="w-full lgl:w-1/2">
         <div className="py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px] uppercase">
-            Features
+            Skills
           </p>
           <h2 className="text-3xl md:text-4xl font-bold">Web Dev (Backend)</h2>
         </div>
@@ -328,7 +328,7 @@ const Skills = () => {
       <div className="w-full lgl:w-1/2">
         <div className="py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px] uppercase">
-            Features
+            Skills
           </p>
           <h2 className="text-3xl md:text-4xl font-bold">Sofware Engineer Language Stack</h2>
         </div>
