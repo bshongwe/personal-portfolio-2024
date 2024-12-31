@@ -81,16 +81,16 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Tutor"
-            subTitle="ALX Africa"
-            result="Sept 2024 - present"
-            des="Mentoring & assisting students with portfolio projects & ALX Africa community platform."
-          />
-          <ResumeCard
             title="Ai SWE Resident"
             subTitle="Headstarter"
-            result="Sept 2024 - Present"
+            result="September 2024 - Present"
             des="Projects: 14+ ML, Ai-engineering and full-stack SaaS"
+          />
+          <ResumeCard
+            title="Tutor"
+            subTitle="ALX Africa"
+            result="September 2024 - November 2024"
+            des="Mentoring & assisting students with portfolio projects & ALX Africa community platform."
           />
           <ResumeCard
             title="Ai Skills participant"
