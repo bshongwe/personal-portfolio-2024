@@ -16,6 +16,12 @@ const Achievement = () => {
         </div>
         <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
+            title="Ai Skills Challenge | November 2024"
+            subTitle="Software Engineering Programme, 2024"
+            result="Cohort 17"
+            des="ALX Africa"
+          />
+          <ResumeCard
             title="Valedictorian Graduate"
             subTitle="Software Engineering Programme, 2024"
             result="Cohort 17"
