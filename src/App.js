@@ -8,17 +8,17 @@ import Navbar from "./components/navbar/Navbar";
 import Projects from "./components/projects/Projects";
 import Resume from "./components/resume/Resume";
 import Testimonial from "./components/tesimonial/Testimonial";
-import SEO from "./components/SEO";
+// import SEO from "./components/SEO";
 
 function App() {
   return (
     <div className="w-full h-auto bg-bodyColor text-lightText px-4">
-        {/* SEO Component */}
-        <SEO 
-          title="Ernest B. Shongwe | Certified Software Engineer"
-          description="Explore my projects, testimonials and contact information."
-          keywords="Portfolio, Next.js, React, Developer, Software Engineer, Projects, Resume"
-        />
+        // {/* SEO Component */}
+        // <SEO 
+        //   title="Ernest B. Shongwe | Certified Software Engineer"
+        //   description="Explore my projects, testimonials and contact information."
+        //   keywords="Portfolio, Next.js, React, Developer, Software Engineer, Projects, Resume"
+        // />
         <Navbar />
       <div className="max-w-screen-xl mx-auto">
         <Banner />
