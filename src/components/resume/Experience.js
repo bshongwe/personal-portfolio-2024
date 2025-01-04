@@ -133,25 +133,25 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
         <ResumeCard
-            title="Dev."
+            title="Developer"
             subTitle="Accenture - Nordics"
             result="April 2024"
             des="CI/CD | UAT | IAM"
           />
           <ResumeCard
-            title="Coding Dev. & Tech"
+            title="Coding: Development & Advanced Engineering"
             subTitle="Accenture - North America"
             result="April 2024"
             des="Java | DevOps | SLDC | UAT"
           />
           <ResumeCard
-            title="UK - Dev. & Tech"
+            title="UK - Developer & Technology"
             subTitle="Accenture - UK"
             result="April 2024"
             des="SLDC | UAT | Agile | Waterfall"
           />
           <ResumeCard
-            title="SWE"
+            title="Software Enginering"
             subTitle="JP Morgan Chase & Co."
             result="February 2024"
             des="Building & improving JPMC's banking web apps | Data feed interface | JPMC frameworks & tools (Perspective) | Opensource Contribution"
@@ -163,7 +163,7 @@ const Experience = () => {
             des="Agile development | Scrum | User Stories | Backlog Refinement | Daily Standups | Sprint Reviews & Retrospectives"
           />
           <ResumeCard
-            title="SWE Lite"
+            title="Software Enginering Lite"
             subTitle="JP Morgan Chase & Co."
             result="February 2024"
             des="Building & improving JPMC's banking web apps | Unittesting"
