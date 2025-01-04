@@ -133,16 +133,40 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
         <ResumeCard
-            title="SWE"
-            subTitle="JP Morgan Chase & Co."
-            result="2024"
-            des="Building & improving JPMC's banking web apps using libraries such as JPMC's Perspective library."
+            title="Dev."
+            subTitle="Accenture - Nordics"
+            result="April 2024"
+            des="CI/CD | UAT | IAM"
           />
           <ResumeCard
-            title="Web Dev."
-            subTitle="Accenture"
-            result="2024"
-            des="Software engineering & agile web development."
+            title="Coding Dev. & Tech"
+            subTitle="Accenture - North America"
+            result="April 2024"
+            des="Java | DevOps | SLDC | UAT"
+          />
+          <ResumeCard
+            title="UK - Dev. & Tech"
+            subTitle="Accenture - UK"
+            result="April 2024"
+            des="SLDC | UAT | Agile | Waterfall"
+          />
+          <ResumeCard
+            title="SWE"
+            subTitle="JP Morgan Chase & Co."
+            result="February 2024"
+            des="Building & improving JPMC's banking web apps | Data feed interface | JPMC frameworks & tools (Perspective) | Opensource Contribution"
+          />
+          <ResumeCard
+            title="Agile"
+            subTitle="JP Morgan Chase & Co."
+            result="February 2024"
+            des="Agile development | Scrum | User Stories | Backlog Refinement | Daily Standups | Sprint Reviews & Retrospectives"
+          />
+          <ResumeCard
+            title="SWE Lite"
+            subTitle="JP Morgan Chase & Co."
+            result="February 2024"
+            des="Building & improving JPMC's banking web apps | Unittesting"
           />
         </div>
       </div>
