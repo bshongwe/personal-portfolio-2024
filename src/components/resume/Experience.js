@@ -12,7 +12,7 @@ const Experience = () => {
       {/* Work section */}
       <div>
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4 items-center">
-          <p className="text-sm text-designColor tracking-[4px] text-center">2022 - 2024</p>
+          <p className="text-sm text-designColor tracking-[4px] text-center">2022 - 2025</p>
           <h2 className="text-4xl font-bold text-center">Work</h2>
         </div>
         <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
@@ -76,7 +76,7 @@ const Experience = () => {
       {/* Activities section */}
       <div>
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4 items-center">
-          <p className="text-sm text-designColor tracking-[4px] text-center">2024 - 2024</p>
+          <p className="text-sm text-designColor tracking-[4px] text-center">2024 - 2025</p>
           <h2 className="text-4xl font-bold text-center">Activities</h2>
         </div>
         <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
