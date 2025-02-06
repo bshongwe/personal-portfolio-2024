@@ -18,12 +18,12 @@ const Projects = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
           title="Beqy.ai"
-          des="Ai SaaS: React | Typescript | AWS | Azure"
+          des="Ai Fintec SaaS: 10k+ transactions, improved CI/CD pipelines & LLM RAG integration, re-configure NGINX server, optimised APIs & security"
           src={projectFourteen}
         />
         <ProjectsCard
           title="Customer Churn"
-          des="Ai SaaS: Python | Streamlit | Collab | Jupyter Notebook"
+          des="Ai/ ML Fintec SaaS: Python | Streamlit | Collab | Jupyter Notebook"
           src={projectThirteen}
         />
         <ProjectsCard
