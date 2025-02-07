@@ -16,10 +16,16 @@ const Achievement = () => {
         </div>
         <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Ai Skills Challenge | November 2024"
+            title="Microsoft Ai Tour Johannesburg Participant | January 2025"
             subTitle="Software Engineering Programme, 2024"
             result="Cohort 17"
             des="ALX Africa"
+          />
+          <ResumeCard
+            title="Ai Skills Challenge | November 2024"
+            subTitle="10 January 2025"
+            result="Microsoft"
+            des="MicrosoftLearn Skills Challenge 2024"
           />
           <ResumeCard
             title="Valedictorian Graduate"
@@ -34,22 +40,10 @@ const Achievement = () => {
             des="Hacktoberfest 2024"
           />
           <ResumeCard
-            title="Hackerthon Participant"
-            subTitle="Early Bird Pegasaurus"
-            result="Holopin"
-            des="Hacktoberfest 2024"
-          />
-          <ResumeCard
-            title="Hackerthon Participant"
-            subTitle="Hacktoberfest 2024: Registered"
-            result="Holopin"
-            des="Hacktoberfest 2024"
-          />
-          <ResumeCard
             title="Microsoft Learn Skills Challenge at Build 2024"
             subTitle="21 June 2024"
             result="Microsoft"
-            des="Skills Challenge 2024"
+            des="MicrosoftLearn Skills Challenge 2024"
           />
         </div>
       </div>
@@ -60,6 +54,12 @@ const Achievement = () => {
           <h2 className="text-4xl font-bold"><i>Work Awards</i></h2>
         </div>
         <div className="mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+          <ResumeCard
+            title="DevOps Training"
+            subTitle="2024"
+            result="verified: AWS, Azure, GitLab, Jenkins"
+            des="KalKey"
+          />
           <ResumeCard
             title="Cybersecurity Internship I"
             subTitle="2024"
