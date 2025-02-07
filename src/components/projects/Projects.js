@@ -18,12 +18,12 @@ const Projects = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
           title="Beqy.ai"
-          des="Ai Fintec SaaS: 10k+ transactions, improved CI/CD pipelines & LLM RAG integration, re-configure NGINX server, optimised APIs & security."
+          des="Ai Fintec SaaS: 10k+ transactions, improved CI/CD pipelines & LLM RAG integration, re-configured NGINX server, optimised APIs & security."
           src={projectFourteen}
         />
         <ProjectsCard
           title="Customer Churn"
-          des="Ai/ ML Fintec SaaS: 87% min. accuracy, processing 100k+ records and 500 ms inference time with interactive dashboard."
+          des="Ai/ ML Fintec SaaS: 87% min. accuracy, processing 100k+ records and 500 ms inference time with interactive dashboard, secure LLM & RAG pipeline deployment"
           src={projectThirteen}
         />
         <ProjectsCard
@@ -33,7 +33,7 @@ const Projects = () => {
         />
         <ProjectsCard
           title="NesBank"
-          des="Fintec SaaS: Next.js | React | Tailwind | (under development)"
+          des="Fintec SaaS: Supports 1k+ users, secured auth, handles 10k+ monthly transactions, Ai-powered assistant (under development)"
           src={projectTwelve}
         />
         <ProjectsCard
@@ -43,47 +43,47 @@ const Projects = () => {
         />
         <ProjectsCard
           title="AI Pantry Tracker"
-          des="Inventory SaaS: Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind"
+          des="Inventory SaaS: 1k+ user support with 6k+ request per day, secure LLM & RAG pipeline with streamlined, dockerised deployment"
           src={projectNine}
         />
         <ProjectsCard
           title="Rate My Professor AI Assistant"
-          des="Academic Advisor SaaS: Next.js | React | Pinecone | LLMs | RAG | Clerk | Stripe | Tailwind"
+          des="Academic Advisor SaaS: 1k+ user support with 6k+ request per day, secure LLM & RAG pipeline with streamlined, dockerised deployment"
           src={projectSix}
         />
         <ProjectsCard
           title="Recalla"
-          des="Flashcard SaaS: Next.js | React | Firebase | LLMs | RAG | Clerk | Stripe | Tailwind"
+          des="Flashcard Gen-Ai SaaS: 1k+ user support with 6k+ request per day, secure LLM & RAG pipeline with streamlined, dockerised deployment"
           src={projectSeven}
         />
         <ProjectsCard
           title="Nestec"
-          des="Agric farming app: Bootstrap | Webpack | MongoDB | Redis (cache-aside pattern)"
+          des="Agric Farming app with Gen-Ai Support: Admin user support, 10k+ client, Ai-powered disease-detection, farm inventory, realtime daily weather forecast, 5k+ user support"
           src={projectFour}
         />
         <ProjectsCard
           title="NeXtro"
-          des="eCommerce SaaS: MERN | Tailwind | Docker | Firebase | Jest | JWT | Cloudinary"
+          des="eCommerce SaaS: 1k+ admin user support & 7k+ client user support, 10k+ transaction support, unlimited cart/ sales support"
           src={projectEleven}
         />
         <ProjectsCard
           title="AI Customer Support"
-          des="Retail SaaS: Next.js | React | Pinecone | LLMs | RAG | Clerk | Stripe | Tailwind"
+          des="Retail SaaS: 1k+ user support, NextAuth, secure Stripe payments, Ai-powered assistant, LLM & RAG pipeline with streamlined, dockerised deployment"
           src={projectEight}
         />
         <ProjectsCard
-          title="Earth_FX Trading App"
-          des="Trading App: Bootstrap | TradeView API"
+          title="AirBnB Clone"
+          des="Full stack Spring Boot + Angular property rental SaaS, secure OAuth for 1k+ admin users and 6k+ ordinary users"
           src={projectThree}
         />
         <ProjectsCard
           title="Blog"
-          des="Blog App: Next.js | Typescript | React DOM | Jest | Node.js"
+          des="Blog App: Next.js | Typescript | React DOM | Jest | Node.js (under development)"
           src={projectTen}
         />
         <ProjectsCard
           title="Personal Website"
-          des="Portfolio website: HTML5 | JS |SCSS | DNS"
+          des="Portfolio website: Main portfolio website cover/ landing page - HTML5 | JS |SCSS | DNS | SEO"
           src={projectFive}
         />
       </div>
