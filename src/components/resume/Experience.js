@@ -19,7 +19,7 @@ const Experience = () => {
           <ResumeCard
             title="Backend Engineer"
             subTitle="Beqy.ai"
-            result="Nov. 2024 - Present"
+            result="Nov 2024 - Present"
             des="Sandton Dev Team: 10k+ transactions/ month, >99% uptime, 85% deployment effeciency + rollback, SOC-2 protocols, LLM & RAG integration"
           />
           <ResumeCard
@@ -81,15 +81,21 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
+            title="Ai Tour Participant"
+            subTitle="Beqy.ai"
+            result="Jan 2025"
+            des="Sandton, Johannesburg, South Africa"
+          />
+          <ResumeCard
             title="Ai SWE Resident"
             subTitle="Headstarter"
-            result="September 2024 - Present"
+            result="Sept 2024 - Feb 2025"
             des="Projects: 14+ ML, Ai-engineering and full-stack SaaS"
           />
           <ResumeCard
             title="Tutor"
             subTitle="ALX Africa"
-            result="September 2024 - November 2024"
+            result="Sept 2024 - Nov 2024"
             des="Mentoring & assisting students with portfolio projects & ALX Africa community platform."
           />
           <ResumeCard
@@ -135,37 +141,37 @@ const Experience = () => {
         <ResumeCard
             title="Developer"
             subTitle="Accenture - Nordics"
-            result="April 2024"
+            result="Apr 2024"
             des="CI/CD | UAT | IAM"
           />
           <ResumeCard
             title="Coding: Development & Advanced Engineering"
             subTitle="Accenture - North America"
-            result="April 2024"
+            result="Apr 2024"
             des="Java | DevOps | SLDC | UAT"
           />
           <ResumeCard
             title="UK - Developer & Technology"
             subTitle="Accenture - UK"
-            result="April 2024"
+            result="Apr 2024"
             des="SLDC | UAT | Agile | Waterfall"
           />
           <ResumeCard
             title="Software Enginering"
             subTitle="JP Morgan Chase & Co."
-            result="February 2024"
+            result="Feb 2024"
             des="Building & improving JPMC's banking web apps | Data feed interface | JPMC frameworks & tools (Perspective) | Opensource Contribution"
           />
           <ResumeCard
             title="Agile"
             subTitle="JP Morgan Chase & Co."
-            result="February 2024"
+            result="Feb 2024"
             des="Agile development | Scrum | User Stories | Backlog Refinement | Daily Standups | Sprint Reviews & Retrospectives"
           />
           <ResumeCard
             title="Software Enginering Lite"
             subTitle="JP Morgan Chase & Co."
-            result="February 2024"
+            result="Feb 2024"
             des="Building & improving JPMC's banking web apps | Unittesting"
           />
         </div>
