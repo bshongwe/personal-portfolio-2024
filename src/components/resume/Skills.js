@@ -44,7 +44,7 @@ const Skills = () => {
           </div>
           <div className="overflow-x-hidden">
             <p className="text-sm uppercase font-medium">Kotlin</p>
-            <span className="w-[full] h-2 bgOpacity rounded-md inline-flex mt-2">
+            <span className="w-full h-2 bgOpacity rounded-md inline-flex mt-2">
               <motion.span
                 initial={{ x: "-100%", opacity: 0 }}
                 animate={{ x: 0, opacity: 1 }}
