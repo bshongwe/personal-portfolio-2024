@@ -20,7 +20,7 @@ const Experience = () => {
             title="Backend Engineer"
             subTitle="Beqy.ai"
             result="Nov. 2024 - Present"
-            des="Sandton Dev Team: API & database (vectors & SQL) development, 65% data processing time reduction & 95% data accuracy"
+            des="Sandton Dev Team: 10k+ transactions/ month, >99% uptime, 85% deployment effeciency + rollback, SOC-2 protocols, LLM & RAG integration"
           />
           <ResumeCard
             title="DevSecOps Engineer I"
