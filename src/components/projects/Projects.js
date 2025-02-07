@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree, projectFour, projectFive, projectSix, projectSeven, projectEight, projectNine, projectTen, projectEleven, projectTwelve, projectThirteen, projectFourteen } from "../../assets/index";
+import { projectOne, projectTwo, projectThree, projectFour, projectFive, projectSix, projectSeven, projectEight, projectNine, projectTen, projectEleven, projectTwelve, projectThirteen, projectFourteen, projectFifteen } from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -25,6 +25,11 @@ const Projects = () => {
           title="Customer Churn"
           des="Ai/ ML Fintec SaaS: 87% min. accuracy, processing 100k+ records and 500 ms inference time with interactive dashboard, secure LLM & RAG pipeline deployment"
           src={projectThirteen}
+        />
+        <ProjectsCard
+          title="Ai-24"
+          des="Ai/ ML LLM RAG: Supports 10,000+ API calls and 5,000+ prompt generations per day, 98% accuracy in customer support, 40% deployment update reduction (RAG pipeline & CI/CD)"
+          src={projectFifteen}
         />
         <ProjectsCard
           title="Bunny-Ai"
