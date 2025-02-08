@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree, projectFour, projectFive, projectSix, projectSeven, projectEight, projectNine, projectTen, projectEleven, projectTwelve, projectThirteen, projectFourteen, projectFifteen, projectSixteen } from "../../assets/index";
+import { projectOne, projectTwo, projectThree, projectFour, projectFive, projectSix, projectSeven, projectEight, projectNine, projectTen, projectEleven, projectTwelve, projectThirteen, projectFourteen, projectFifteen, projectSixteen, projectSeventeen } from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -20,6 +20,11 @@ const Projects = () => {
           title="Beqy.ai"
           des="Ai Fintec SaaS: 10k+ transactions, improved CI/CD pipelines & LLM RAG integration, re-configured NGINX server, optimised APIs & security."
           src={projectFourteen}
+        />
+        <ProjectsCard
+          title="Ticket-R"
+          des="Ai/ ML Event Management SaaS: Secure ticket + QR code generator, secure payment gateway for 1k+ admin users, secure LLM & RAG pipeline deployment"
+          src={projectThirteen}
         />
         <ProjectsCard
           title="Customer Churn"
