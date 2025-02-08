@@ -24,7 +24,7 @@ const Projects = () => {
         <ProjectsCard
           title="Ticket-R"
           des="Ai/ ML Event Management SaaS: Secure ticket + QR code generator, secure payment gateway for 1k+ admin users, secure LLM & RAG pipeline deployment"
-          src={projectThirteen}
+          src={projectSeventeen}
         />
         <ProjectsCard
           title="Customer Churn"
