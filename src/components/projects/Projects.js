@@ -39,7 +39,7 @@ const Projects = () => {
         <ProjectsCard
           title="End-to-End Churn Prediction"
           des="Ai/ ML MLflow & DVC: +93% accuracy on Testing Set, secure LLM & RAG pipeline for Streamlit + Render, Dokerised deployment"
-          src={projectSixteen}
+          src={projectFifteen}
         />
         <ProjectsCard
           title="Ai-24"
