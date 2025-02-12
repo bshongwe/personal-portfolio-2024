@@ -37,6 +37,11 @@ const Projects = () => {
           src={projectSixteen}
         />
         <ProjectsCard
+          title="End-to-End Churn Prediction"
+          des="Ai/ ML MLflow & DVC: +93% accuracy on Testing Set, secure LLM & RAG pipeline for Streamlit + Render, Dokerised deployment"
+          src={projectSixteen}
+        />
+        <ProjectsCard
           title="Ai-24"
           des="Ai/ ML LLM RAG: Supports 10,000+ API calls and 5,000+ prompt generations per day, 98% accuracy in customer support, 40% deployment update reduction (RAG pipeline & CI/CD)"
           src={projectFifteen}
