@@ -14,6 +14,10 @@ import projectEleven from "./images/projects/projectEleven.jpg";
 import projectTwelve from "./images/projects/projectTwelve.jpg";
 import projectThirteen from "./images/projects/projectThirteen.jpg";
 import projectFourteen from "./images/projects/projectFourteen.jpg";
+import projectFifteen from "./images/projects/projectFifteen.jpg";
+import projectSixteen from "./images/projects/projectSixteen.jpg";
+import projectSeventeen from "./images/projects/projectSeventeen.jpg";
+import projectEighteen from "./images/projects/projectEighteen.jpg";
 import testimonialOne from "./images/testmonial/testimonialOne.png";
 import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import testimonialThree from "./images/testmonial/testimonialThree.png";
@@ -44,6 +48,10 @@ export {
   projectTwelve,
   projectThirteen,
   projectFourteen,
+  projectFifteen,
+  projectSixteen,
+  projectSeventeen,
+  projectEighteen,
   testimonialOne,
   testimonialTwo,
   testimonialThree,

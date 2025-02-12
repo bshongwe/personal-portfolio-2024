@@ -17,38 +17,32 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[Auto] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="CyberOps Associate"
-            subTitle="January 2025 - Present"
-            result="Cisco Networking Academy"
-            des="(Self Paced) SecOps | SOC | Cybersecurity | Forensics"
-          />
-          <ResumeCard
             title="ALX Applied Ai"
             subTitle="September 2024 - Present"
             result="ALX Africa"
             des="(Self Paced) ALX Fellowship Programme: Ai | RAG | Colab"
           />
           <ResumeCard
-            title="Software Engineering Resident"
-            subTitle="September 2024 - Present"
-            result="Headstarter"
-            des="(Instructor-led) Ai/ML Accelerator Programme"
-          />
-          <ResumeCard
-            title="Software Engineering: Cloud"
-            subTitle="July 2024 - Present"
-            result="AWS educate | AWS Skillbuilder"
-            des="(Self Paced) Cloud Certifications & Badges"
-          />
-          <ResumeCard
-            title="Full Stack Web Development Certifications"
+            title="Full Stack Web Development"
             subTitle="January 2023 - Present"
             result="freeCodeCamp"
             des="(Self Paced) Full Stack | Backend | Frontend | Ai/ML"
           />
           <ResumeCard
+            title="Software Engineering Resident"
+            subTitle="September 2024 - February 2025"
+            result="Headstarter"
+            des="(Instructor-led) Ai/ML Accelerator Programme"
+          />
+          <ResumeCard
+            title="Software Engineering: Cloud"
+            subTitle="July 2024 - January 2025"
+            result="AWS educate | AWS Skillbuilder"
+            des="(Self Paced) Cloud Certifications & Badges"
+          />
+          <ResumeCard
             title="DevSecOps Learning Path"
-            subTitle="September 2024 - Present"
+            subTitle="September 2024 - January 2025"
             result="Google Cloud Skills Boost"
             des="(Self Paced) Hands-on Labs & Coursework Assessments"
           />
