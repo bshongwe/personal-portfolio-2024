@@ -57,6 +57,11 @@ const Projects = () => {
           src={projectEighteen}
         />
         <ProjectsCard
+          title="Coffee Shop Assistant"
+          des="Ai/ ML LLM RAG SaaS: 87% min. accuracy, processing 100k+ records and 500 ms inference time with interactive dashboard, secure LLM & RAG pipeline deployment"
+          src={projectFifteen}
+        />
+        <ProjectsCard
           title="NesBank"
           des="Fintec SaaS: Supports 1k+ users, secured auth, handles 10k+ monthly transactions, Ai-powered assistant (under development)"
           src={projectTwelve}
