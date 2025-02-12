@@ -18,6 +18,7 @@ import projectFifteen from "./images/projects/projectFifteen.jpg";
 import projectSixteen from "./images/projects/projectSixteen.jpg";
 import projectSeventeen from "./images/projects/projectSeventeen.jpg";
 import projectEighteen from "./images/projects/projectEighteen.jpg";
+import projectNineteen from "./images/projects/projectNineteen.jpg";
 import testimonialOne from "./images/testmonial/testimonialOne.png";
 import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import testimonialThree from "./images/testmonial/testimonialThree.png";
@@ -52,6 +53,7 @@ export {
   projectSixteen,
   projectSeventeen,
   projectEighteen,
+  projectNineteen,
   testimonialOne,
   testimonialTwo,
   testimonialThree,
